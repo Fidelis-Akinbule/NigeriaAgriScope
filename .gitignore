@@ -1,0 +1,5 @@
+◦data/raw/         (raw downloaded files — too large for GitHub)
+◦data/processed/*.db  (SQLite database — regenerated from pipeline)
+◦__pycache__/
+◦.env
+◦*.pyc
