@@ -84,7 +84,7 @@ CSV_PATH = ROOT / "data" / "processed" / "master_table.csv"
 OUT_DIR = ROOT / "module4_models" / "outputs"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-PICKLE_PATH = ROOT / "module4_models" / "yield_model.pkl"
+PICKLE_PATH = ROOT / "module4_models" / "outputs" / "yield_model.pkl"
 PREDICTIONS_CSV = OUT_DIR / "yield_predictions.csv"
 
 # ── Chart output paths (spec names) ───────────────────────────────────────
