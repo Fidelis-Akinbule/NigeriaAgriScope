@@ -245,6 +245,8 @@ def build_fact_yield_history() -> pd.DataFrame:
     df["yield_tonnes_ha"] = (df["yield_hg_ha"] / 10_000).round(4)
 
     # Composite key for PBI relationship
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["zone_crop_key"] = df["zone"] + "|" + df["crop"]
 
     # Round numerics
@@ -284,8 +286,12 @@ def build_fact_yield_forecast() -> pd.DataFrame:
     df = df[present].copy()
 
     df["year"] = df["year"].astype(int)
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["yield_tonnes_ha_actual"] = (df["yield_hg_ha"] / 10_000).round(4)
     df["yield_tonnes_ha_predicted"] = (df["predicted_yield_hg_ha"] / 10_000).round(4)
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["zone_crop_key"] = df["zone"] + "|" + df["crop"]
     df["data_type"] = "XGBoost Test Set (2019–2023)"
 
@@ -345,6 +351,8 @@ def build_fact_input_requirements() -> pd.DataFrame:
     # Drop low-signal reliability flag columns (keep score)
     df = df.drop(columns=["is_reliable"], errors="ignore")
 
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["zone_crop_key"] = df["zone"] + "|" + df["crop"]
 
     # Month name for planting (join from calendar if present)
@@ -379,6 +387,8 @@ def build_fact_planting_calendar() -> pd.DataFrame:
     if "planting_notes" in df.columns:
         df["planting_notes"] = df["planting_notes"].str[:150]
 
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["zone_crop_key"] = df["zone"] + "|" + df["crop"]
 
     # Add month number names for both planting and harvest (for PBI slicer)
@@ -395,6 +405,8 @@ def build_fact_planting_calendar() -> pd.DataFrame:
 def build_fact_operations_summary() -> pd.DataFrame:
     """Sheet 7 — Key milestone months per zone-crop (compact pivot)."""
     df = pd.read_csv(SOURCES["operations_summary"])
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["zone_crop_key"] = df["zone"] + "|" + df["crop"]
     df = df.sort_values(["zone", "crop"]).reset_index(drop=True)
     log.info("fact_operations_summary: %d rows × %d cols", *df.shape)
@@ -428,6 +440,8 @@ def build_fact_operations_detail() -> pd.DataFrame:
     if "activity_notes" in df.columns:
         df["activity_notes"] = df["activity_notes"].str[:200]
 
+    df["zone"] = df["zone"].astype(str)
+    df["crop"] = df["crop"].astype(str)
     df["zone_crop_key"] = df["zone"] + "|" + df["crop"]
 
     # Phase sort order for correct timeline display in PBI
