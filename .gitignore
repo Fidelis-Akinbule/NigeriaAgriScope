@@ -25,3 +25,13 @@ module5_planning/outputs/
 # ── OS noise ──────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
+# NigeriaAgriScope deployment rules
+data/processed/nigeria_agri.db
+venv/
+.venv/
+
+# Force-include cloud fallback files
+!data/processed/master_table.csv
+!module4_models/yield_model.pkl
+!module4_models/outputs/
+!module5_planning/outputs/
