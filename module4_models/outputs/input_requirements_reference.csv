@@ -1,0 +1,43 @@
+crop,zone,n_years,r_squared,is_reliable,pdr_kg_ha,recommended_min_kg_ha,recommended_max_kg_ha,current_avg_kg_ha,yield_at_pdr_hg_ha,yield_at_current_kg_ha,yield_gap_at_pdr_hg_ha
+Cassava,North Central,24,0.8763,True,101.5,71.1,96.5,78.2,142463,132804,9659
+Cassava,North East,24,0.8763,True,101.5,71.1,96.5,78.2,142463,132804,9659
+Cassava,North West,24,0.8763,True,101.5,71.1,96.5,78.2,142463,132804,9659
+Cassava,South East,24,0.8763,True,101.5,71.1,96.5,78.2,142463,132804,9659
+Cassava,South South,24,0.8763,True,101.5,71.1,96.5,78.2,142463,132804,9659
+Cassava,South West,24,0.8763,True,101.5,71.1,96.5,78.2,142463,132804,9659
+Cocoa beans,North Central,24,0.9358,True,0.5,0.5,0.5,623.7,3475,9632,0
+Cocoa beans,North East,24,0.9358,True,0.5,0.5,0.5,623.7,3475,9632,0
+Cocoa beans,North West,24,0.9358,True,0.5,0.5,0.5,623.7,3475,9632,0
+Cocoa beans,South East,24,0.9358,True,0.5,0.5,0.5,623.7,3475,9632,0
+Cocoa beans,South South,24,0.9358,True,0.5,0.5,0.5,623.7,3475,9632,0
+Cocoa beans,South West,24,0.9358,True,0.5,0.5,0.5,623.7,3475,9632,0
+Maize,North Central,24,0.8938,True,71.0,49.7,67.4,59.5,19873,18333,1539
+Maize,North East,24,0.8938,True,71.0,49.7,67.4,59.5,19873,18333,1539
+Maize,North West,24,0.8938,True,71.0,49.7,67.4,59.5,19873,18333,1539
+Maize,South East,24,0.8938,True,71.0,49.7,67.4,59.5,19873,18333,1539
+Maize,South South,24,0.8938,True,71.0,49.7,67.4,59.5,19873,18333,1539
+Maize,South West,24,0.8938,True,71.0,49.7,67.4,59.5,19873,18333,1539
+Oil palm fruit,North Central,24,0.9229,True,95.2,66.7,90.5,92.4,29380,29227,153
+Oil palm fruit,North East,24,0.9229,True,95.2,66.7,90.5,92.4,29380,29227,153
+Oil palm fruit,North West,24,0.9229,True,95.2,66.7,90.5,92.4,29380,29227,153
+Oil palm fruit,South East,24,0.9229,True,95.2,66.7,90.5,92.4,29380,29227,153
+Oil palm fruit,South South,24,0.9229,True,95.2,66.7,90.5,92.4,29380,29227,153
+Oil palm fruit,South West,24,0.9229,True,95.2,66.7,90.5,92.4,29380,29227,153
+Rice (paddy),North Central,24,0.9511,True,152.2,106.5,144.6,126.7,22428,20586,1842
+Rice (paddy),North East,24,0.9511,True,152.2,106.5,144.6,126.7,22428,20586,1842
+Rice (paddy),North West,24,0.9511,True,152.2,106.5,144.6,126.7,22428,20586,1842
+Rice (paddy),South East,24,0.9511,True,152.2,106.5,144.6,126.7,22428,20586,1842
+Rice (paddy),South South,24,0.9511,True,152.2,106.5,144.6,126.7,22428,20586,1842
+Rice (paddy),South West,24,0.9511,True,152.2,106.5,144.6,126.7,22428,20586,1842
+Sorghum,North Central,24,0.9713,True,76.6,53.7,72.8,61.7,20694,19439,1255
+Sorghum,North East,24,0.9713,True,76.6,53.7,72.8,61.7,20694,19439,1255
+Sorghum,North West,24,0.9713,True,76.6,53.7,72.8,61.7,20694,19439,1255
+Sorghum,South East,24,0.9713,True,76.6,53.7,72.8,61.7,20694,19439,1255
+Sorghum,South South,24,0.9713,True,76.6,53.7,72.8,61.7,20694,19439,1255
+Sorghum,South West,24,0.9713,True,76.6,53.7,72.8,61.7,20694,19439,1255
+Yam,North Central,24,0.9405,True,172.6,120.8,164.0,113.7,182542,152004,30538
+Yam,North East,24,0.9405,True,172.6,120.8,164.0,113.7,182542,152004,30538
+Yam,North West,24,0.9405,True,172.6,120.8,164.0,113.7,182542,152004,30538
+Yam,South East,24,0.9405,True,172.6,120.8,164.0,113.7,182542,152004,30538
+Yam,South South,24,0.9405,True,172.6,120.8,164.0,113.7,182542,152004,30538
+Yam,South West,24,0.9405,True,172.6,120.8,164.0,113.7,182542,152004,30538
