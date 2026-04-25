@@ -13,7 +13,7 @@
 
 ## The Problem
 
-Nigeria is the world's largest cassava producer and Africa's largest food market — yet it produces only 1.2 tonnes of maize per hectare against a global average of 5.8 tonnes. That gap is not a soil problem. It is an information problem. Smallholder farmers lack access to zone-specific data on when to plant, how much fertilizer to apply, and what yield to expect. The result: ₦2.3 trillion in annual yield losses from suboptimal input timing and application rates.
+Nigeria is the world's largest cassava producer and Africa's largest food market, yet it produces only 1.2 tonnes of maize per hectare against a global average of 5.8 tonnes. That gap is not a soil problem. It is an information problem. Smallholder farmers lack access to zone-specific data on when to plant, how much fertilizer to apply, and what yield to expect. The result: ₦2.3 trillion in annual yield losses from suboptimal input timing and application rates.
 
 ## The Solution
 
