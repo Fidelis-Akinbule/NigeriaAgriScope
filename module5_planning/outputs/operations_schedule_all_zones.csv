@@ -1,0 +1,607 @@
+zone,crop,planting_month,planting_month_name,harvest_month,harvest_month_name,rainfall_reliability_score,phase,activity,start_week_offset,end_week_offset,approx_start_month,approx_end_month,approx_start_month_num,activity_notes
+North Central,Cassava,4,Apr,2,Feb,0.917,PRE_PLANTING,Land clearing and primary tillage,-4,-3,Mar,Mar,3,Remove stumps; plough to 30cm depth
+North Central,Cassava,4,Apr,2,Feb,0.917,PRE_PLANTING,Stem cutting procurement and curing,-2,-1,Mar,Mar,3,Select disease-free cuttings 25cm long; cure 3–5 days
+North Central,Cassava,4,Apr,2,Feb,0.917,PRE_PLANTING,Mound or ridge formation,-1,0,Mar,Apr,3,Form ridges 30cm high; spacing 1×1m
+North Central,Cassava,4,Apr,2,Feb,0.917,PLANTING,Planting stem cuttings,0,0,Apr,Apr,4,"Plant at 45° angle, 2/3 buried; 10,000 cuttings/ha"
+North Central,Cassava,4,Apr,2,Feb,0.917,EARLY_GROWTH,Gap filling,2,3,Apr,Apr,4,Replace failed cuttings before canopy closure
+North Central,Cassava,4,Apr,2,Feb,0.917,EARLY_GROWTH,First weeding,4,6,May,May,5,Critical period: weed-free first 3 months
+North Central,Cassava,4,Apr,2,Feb,0.917,VEGETATIVE,First fertilizer application,8,8,Jun,Jun,6,NPK 15:15:15 at 2 months; place 10cm from stem
+North Central,Cassava,4,Apr,2,Feb,0.917,VEGETATIVE,Pest scouting — whitefly and CMD,8,20,Jun,Sep,6,Scout fortnightly; rogue CMV-infected plants
+North Central,Cassava,4,Apr,2,Feb,0.917,VEGETATIVE,Second weeding,10,12,Jun,Jul,6,Before secondary canopy closure
+North Central,Cassava,4,Apr,2,Feb,0.917,VEGETATIVE,Second fertilizer application,16,16,Aug,Aug,8,Potassium sulphate at 4 months for tuber bulking
+North Central,Cassava,4,Apr,2,Feb,0.917,REPRODUCTIVE,Tuber bulking monitoring,24,36,Oct,Jan,10,Monitor canopy colour; yellowing = nutrient stress
+North Central,Cassava,4,Apr,2,Feb,0.917,PRE_HARVEST,Maturity assessment,36,40,Jan,Feb,1,Check HCN content if bitter variety; test tuber size
+North Central,Cassava,4,Apr,2,Feb,0.917,HARVEST,Harvesting,40,44,Feb,Mar,2,Mechanical or manual uprooting; avoid tuber damage
+North Central,Cassava,4,Apr,2,Feb,0.917,POST_HARVEST,Processing or storage,44,48,Mar,Apr,3,Process within 24–48hrs (perishable); or wax-coat
+North Central,Cassava,4,Apr,2,Feb,0.917,POST_HARVEST,Field ratoon or new land prep,44,52,Mar,May,3,For ratoon crop: cut stems to 50cm; fertilize
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,PRE_PLANTING,Nursery pod selection and seeding,-12,-8,Jan,Feb,1,Select pods from high-yielding trees; sow in poly bags
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,PRE_PLANTING,Shade tree establishment,-8,-4,Feb,Mar,2,Plant plantain or Gliricidia as temporary shade
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,PRE_PLANTING,Land preparation and pegging,-4,-2,Mar,Mar,3,Peg holes at 3×3m; apply basal fertilizer
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,PLANTING,Transplanting cocoa seedlings,0,0,Apr,Apr,4,Transplant 4–6 month seedlings; plant under shade
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,EARLY_GROWTH,Mulching and establishment care,1,8,Apr,Jun,4,Mulch basin; water if dry; control weeds by hand
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,VEGETATIVE,Shade management,8,16,Jun,Aug,6,Gradually reduce shade as canopy develops
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,VEGETATIVE,Fertilizer application,12,12,Jul,Jul,7,NPK at 12 months; apply in ring 30cm from stem
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,VEGETATIVE,Black pod disease scouting,12,32,Jul,Dec,7,Spray copper fungicide at 2-week intervals in wet season
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,VEGETATIVE,Pruning — jorquette formation,16,20,Aug,Sep,8,Shape jorquette; remove chupons and dead wood
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,REPRODUCTIVE,Flushing and flowering monitoring,24,32,Oct,Dec,10,Ensure good shade; remove mummified pods
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,REPRODUCTIVE,Cherelle wilt assessment,28,36,Nov,Jan,11,Normal to lose 80% of chereelles; do not panic
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,HARVEST,Pod breaking and bean extraction,36,44,Jan,Mar,1,Harvest yellow/orange pods; extract beans same day
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,POST_HARVEST,Fermentation,36,37,Jan,Jan,1,Ferment 5–6 days in boxes; turn daily from day 2
+North Central,Cocoa beans,4,Apr,12,Dec,0.917,POST_HARVEST,Drying and grading,37,38,Jan,Jan,1,Sun-dry to 7.5% moisture; grade and bag 62.5kg
+North Central,Maize,4,Apr,8,Aug,0.917,PRE_PLANTING,Land clearing and ploughing,-4,-3,Mar,Mar,3,Deep tillage 20–25cm; remove crop residues
+North Central,Maize,4,Apr,8,Aug,0.917,PRE_PLANTING,Soil testing and input procurement,-3,-2,Mar,Mar,3,"Procure certified seed, NPK 15:15:15, herbicide"
+North Central,Maize,4,Apr,8,Aug,0.917,PRE_PLANTING,Harrowing and ridging,-2,-1,Mar,Mar,3,Final seedbed preparation; form ridges or flat bed
+North Central,Maize,4,Apr,8,Aug,0.917,PLANTING,Sowing,0,0,Apr,Apr,4,2–3 seeds/hole at 75×25cm spacing; thin to 1 plant
+North Central,Maize,4,Apr,8,Aug,0.917,EARLY_GROWTH,Pre-emergence herbicide application,1,1,Apr,Apr,4,Apply within 3 days of planting on moist soil
+North Central,Maize,4,Apr,8,Aug,0.917,EARLY_GROWTH,Gap filling,2,2,Apr,Apr,4,Replace failed stands; maintain plant population
+North Central,Maize,4,Apr,8,Aug,0.917,EARLY_GROWTH,First weeding,3,4,Apr,May,4,Hand-hoe or post-emergence herbicide at 3 WAP
+North Central,Maize,4,Apr,8,Aug,0.917,VEGETATIVE,First fertilizer application (NPK),4,4,May,May,5,Apply NPK 15:15:15 at 4 WAP; side-dress and cover
+North Central,Maize,4,Apr,8,Aug,0.917,VEGETATIVE,Pest scouting — stem borer,5,8,May,Jun,5,Scout weekly; apply insecticide at threshold
+North Central,Maize,4,Apr,8,Aug,0.917,VEGETATIVE,Second weeding,6,7,May,May,5,Before canopy closure; critical for yield protection
+North Central,Maize,4,Apr,8,Aug,0.917,REPRODUCTIVE,Second fertilizer application (Urea),8,8,Jun,Jun,6,Urea top-dress at tasselling; do not fold into leaves
+North Central,Maize,4,Apr,8,Aug,0.917,REPRODUCTIVE,Fall armyworm scouting,8,12,Jun,Jul,6,High-risk period; apply biopesticide if threshold met
+North Central,Maize,4,Apr,8,Aug,0.917,REPRODUCTIVE,Pollination monitoring,9,10,Jun,Jun,6,Ensure good silk coverage; no pesticide during silking
+North Central,Maize,4,Apr,8,Aug,0.917,PRE_HARVEST,Maturity assessment,14,15,Jul,Jul,7,Check husk colour and grain hardness; moisture <25%
+North Central,Maize,4,Apr,8,Aug,0.917,HARVEST,Harvesting and field drying,15,16,Jul,Aug,7,Snap cobs; sun-dry to <13% moisture for storage
+North Central,Maize,4,Apr,8,Aug,0.917,POST_HARVEST,Shelling and bagging,16,17,Aug,Aug,8,Shell when dry; use hermetic bags for storage
+North Central,Maize,4,Apr,8,Aug,0.917,POST_HARVEST,Field cleanup and compost preparation,17,18,Aug,Aug,8,Incorporate stover; prepare compost pit for off-season
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,PRE_PLANTING,Pre-nursery preparation,-8,-6,Feb,Feb,2,Germinate seeds; transfer to pre-nursery at 3 months
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,PRE_PLANTING,Main nursery,-6,-1,Feb,Mar,2,Grow in main nursery 12 months; harden off before planting
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,PRE_PLANTING,Land clearing and holing,-2,-1,Mar,Mar,3,Clear undergrowth; dig 60×60×60cm holes; apply rock phos
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,PLANTING,Transplanting seedlings,0,0,Apr,Apr,4,Plant 18-month seedlings at 9×9m triangular; mulch basin
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,EARLY_GROWTH,Establishment weeding,2,4,Apr,May,4,Circle weed monthly for first 2 years
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,EARLY_GROWTH,Cover crop establishment,2,8,Apr,Jun,4,Sow Pueraria cover between palms to suppress weeds
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,VEGETATIVE,First year fertilizer,12,12,Jul,Jul,7,Muriate of Potash + Urea at 12 months per palm
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,VEGETATIVE,Frond management,16,20,Aug,Sep,8,Remove oldest fronds; do not over-prune
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,VEGETATIVE,Second year fertilizer,24,24,Oct,Oct,10,Full NPK per palm at year 2
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,REPRODUCTIVE,First bunch monitoring (yr 3+),36,52,Jan,May,1,Count bunches; thin excess in first bearing year
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,REPRODUCTIVE,Bunch harvest cycle begins,40,52,Feb,May,2,Harvest ripe bunches every 10–14 days
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,HARVEST,Ongoing bunch harvesting,40,52,Feb,May,2,Use harvesting chisel; harvest at black fruit threshold
+North Central,Oil palm fruit,4,Apr,4,Apr,0.917,POST_HARVEST,FFB transport and processing,40,52,Feb,May,2,Transport within 24hrs to avoid FFA rise
+North Central,Rice (paddy),5,May,10,Oct,0.917,PRE_PLANTING,Nursery bed preparation,-4,-4,Apr,Apr,4,Prepare raised nursery bed 1×10m per ha field
+North Central,Rice (paddy),5,May,10,Oct,0.917,PRE_PLANTING,Seed soaking and pregermination,-3,-3,Apr,Apr,4,Soak 24hr; drain 24hr; sow at pin-point germination
+North Central,Rice (paddy),5,May,10,Oct,0.917,PRE_PLANTING,Nursery seeding,-3,-2,Apr,Apr,4,Broadcast 40g/m² in nursery; flood to 2cm depth
+North Central,Rice (paddy),5,May,10,Oct,0.917,PRE_PLANTING,Land puddling and bund construction,-2,-1,Apr,Apr,4,Puddle field; form bunds to retain water
+North Central,Rice (paddy),5,May,10,Oct,0.917,PLANTING,Transplanting,0,1,May,May,5,Transplant 3-week-old seedlings; 2–3 per hill; 20×20cm
+North Central,Rice (paddy),5,May,10,Oct,0.917,EARLY_GROWTH,Flood management,1,3,May,May,5,Maintain 5cm flood depth; drain for weeding
+North Central,Rice (paddy),5,May,10,Oct,0.917,EARLY_GROWTH,First weeding (drain and hand-weed),2,3,May,May,5,Drain field; weed; re-flood within 24hrs
+North Central,Rice (paddy),5,May,10,Oct,0.917,VEGETATIVE,First fertilizer application (NPK),3,3,May,May,5,Apply before re-flooding; broadcast and flood
+North Central,Rice (paddy),5,May,10,Oct,0.917,VEGETATIVE,Pest scouting — stem borer and BPH,4,10,Jun,Jul,6,Scout twice weekly; avoid broad-spectrum at tillering
+North Central,Rice (paddy),5,May,10,Oct,0.917,VEGETATIVE,Second weeding or herbicide,5,6,Jun,Jun,6,Post-emergence herbicide or drain-and-hoe
+North Central,Rice (paddy),5,May,10,Oct,0.917,REPRODUCTIVE,Second fertilizer — Urea at panicle,8,8,Jul,Jul,7,Panicle initiation top-dress; drain 3 days before
+North Central,Rice (paddy),5,May,10,Oct,0.917,REPRODUCTIVE,Water management at flowering,9,11,Jul,Jul,7,Maintain 5cm flood; critical for pollination
+North Central,Rice (paddy),5,May,10,Oct,0.917,PRE_HARVEST,Drain field and maturity check,13,14,Aug,Aug,8,Drain 2 weeks before harvest; check grain moisture
+North Central,Rice (paddy),5,May,10,Oct,0.917,HARVEST,Harvesting and threshing,14,16,Aug,Sep,8,Harvest at <25% moisture; thresh within 24hrs
+North Central,Rice (paddy),5,May,10,Oct,0.917,POST_HARVEST,Drying and milling preparation,16,18,Sep,Sep,9,Sun-dry to <14%; bag for milling or storage
+North Central,Sorghum,4,Apr,9,Sep,0.917,PRE_PLANTING,Land clearing and tillage,-4,-3,Mar,Mar,3,Minimum tillage acceptable; remove previous stubble
+North Central,Sorghum,4,Apr,9,Sep,0.917,PRE_PLANTING,Input procurement,-2,-1,Mar,Mar,3,"Procure certified seed, NPK fertilizer"
+North Central,Sorghum,4,Apr,9,Sep,0.917,PLANTING,Sowing,0,0,Apr,Apr,4,Drill or spot sow; 75×20cm; thin to 1 plant at 2 WAP
+North Central,Sorghum,4,Apr,9,Sep,0.917,EARLY_GROWTH,Thinning and gap filling,2,3,Apr,Apr,4,Thin to 1 seedling/hole; fill gaps with reserve seed
+North Central,Sorghum,4,Apr,9,Sep,0.917,VEGETATIVE,"Pest scouting — shoot fly, aphids",2,10,Apr,Jun,4,Scout weekly; apply systemic insecticide at threshold
+North Central,Sorghum,4,Apr,9,Sep,0.917,EARLY_GROWTH,First weeding,3,5,Apr,May,4,Critical period; weed before 4 WAP
+North Central,Sorghum,4,Apr,9,Sep,0.917,VEGETATIVE,Fertilizer application,5,5,May,May,5,NPK at 5 WAP; side-dress; avoid waterlogging
+North Central,Sorghum,4,Apr,9,Sep,0.917,VEGETATIVE,Second weeding,7,8,May,Jun,5,Before panicle initiation
+North Central,Sorghum,4,Apr,9,Sep,0.917,REPRODUCTIVE,Bird scare implementation,14,18,Jul,Aug,7,Continuous bird-scaring from grain filling to harvest
+North Central,Sorghum,4,Apr,9,Sep,0.917,REPRODUCTIVE,Mould monitoring,15,20,Jul,Sep,7,Check for grain mould in high-humidity zones
+North Central,Sorghum,4,Apr,9,Sep,0.917,PRE_HARVEST,Maturity assessment,18,20,Aug,Sep,8,Panicle colour and grain hardness check
+North Central,Sorghum,4,Apr,9,Sep,0.917,HARVEST,Harvesting,20,21,Sep,Sep,9,Cut panicles; head by head; avoid shattering
+North Central,Sorghum,4,Apr,9,Sep,0.917,POST_HARVEST,Threshing and drying,21,22,Sep,Sep,9,Sun-dry to <12% moisture; bag in hermetic storage
+North Central,Yam,3,Mar,10,Oct,0.917,PRE_PLANTING,Mound construction,-4,-3,Feb,Feb,2,Form 1×1m mounds 30–50cm high before rains; labour-intensive
+North Central,Yam,3,Mar,10,Oct,0.917,PRE_PLANTING,Seed yam sett preparation,-3,-2,Feb,Feb,2,Cut setts 150–200g; dust with fungicide/ash; cure 7 days
+North Central,Yam,3,Mar,10,Oct,0.917,PRE_PLANTING,Staking material procurement,-2,-1,Feb,Feb,2,"Procure 5,000 stakes/ha; pre-plant before sowing"
+North Central,Yam,3,Mar,10,Oct,0.917,PLANTING,Planting seed yam setts,0,0,Mar,Mar,3,Plant on top of mound; 5cm depth; 1 sett/mound
+North Central,Yam,3,Mar,10,Oct,0.917,EARLY_GROWTH,Staking young vines,3,4,Mar,Apr,3,Stake vines at 3–4 WAP to prevent lodging
+North Central,Yam,3,Mar,10,Oct,0.917,EARLY_GROWTH,First weeding,3,5,Mar,Apr,3,Hand weed; avoid disturbing tuber zone
+North Central,Yam,3,Mar,10,Oct,0.917,VEGETATIVE,First fertilizer application,6,6,Apr,Apr,4,NPK 15:15:15 at 6 WAP; side-dress around mound
+North Central,Yam,3,Mar,10,Oct,0.917,VEGETATIVE,Pest scouting — yam mosaic virus,6,20,Apr,Aug,4,Scout weekly; rogue infected vines immediately
+North Central,Yam,3,Mar,10,Oct,0.917,VEGETATIVE,Second weeding,8,10,May,May,5,Critical for tuber bulking; avoid root disturbance
+North Central,Yam,3,Mar,10,Oct,0.917,VEGETATIVE,Second fertilizer application,10,10,May,May,5,Muriate of Potash for tuber quality
+North Central,Yam,3,Mar,10,Oct,0.917,REPRODUCTIVE,Tuber monitoring,20,28,Aug,Oct,8,Observe vine senescence; partial harvest possible
+North Central,Yam,3,Mar,10,Oct,0.917,PRE_HARVEST,Vine senescence assessment,26,28,Sep,Oct,9,80% vine dry-down indicates harvest readiness
+North Central,Yam,3,Mar,10,Oct,0.917,HARVEST,Harvesting and destaking,28,30,Oct,Oct,10,Manual dig; avoid cuts; destake before lifting
+North Central,Yam,3,Mar,10,Oct,0.917,POST_HARVEST,Barn storage or yam barn construction,30,32,Oct,Nov,10,Stack in shaded barn; inspect monthly for rot
+North East,Cassava,7,Jul,5,May,0.944,PRE_PLANTING,Land clearing and primary tillage,-4,-3,Jun,Jun,6,Remove stumps; plough to 30cm depth
+North East,Cassava,7,Jul,5,May,0.944,PRE_PLANTING,Stem cutting procurement and curing,-2,-1,Jun,Jun,6,Select disease-free cuttings 25cm long; cure 3–5 days
+North East,Cassava,7,Jul,5,May,0.944,PRE_PLANTING,Mound or ridge formation,-1,0,Jun,Jul,6,Form ridges 30cm high; spacing 1×1m
+North East,Cassava,7,Jul,5,May,0.944,PLANTING,Planting stem cuttings,0,0,Jul,Jul,7,"Plant at 45° angle, 2/3 buried; 10,000 cuttings/ha"
+North East,Cassava,7,Jul,5,May,0.944,EARLY_GROWTH,Gap filling,2,3,Jul,Jul,7,Replace failed cuttings before canopy closure
+North East,Cassava,7,Jul,5,May,0.944,EARLY_GROWTH,First weeding,4,6,Aug,Aug,8,Critical period: weed-free first 3 months
+North East,Cassava,7,Jul,5,May,0.944,VEGETATIVE,First fertilizer application,8,8,Sep,Sep,9,NPK 15:15:15 at 2 months; place 10cm from stem
+North East,Cassava,7,Jul,5,May,0.944,VEGETATIVE,Pest scouting — whitefly and CMD,8,20,Sep,Dec,9,Scout fortnightly; rogue CMV-infected plants
+North East,Cassava,7,Jul,5,May,0.944,VEGETATIVE,Second weeding,10,12,Sep,Oct,9,Before secondary canopy closure
+North East,Cassava,7,Jul,5,May,0.944,VEGETATIVE,Second fertilizer application,16,16,Nov,Nov,11,Potassium sulphate at 4 months for tuber bulking
+North East,Cassava,7,Jul,5,May,0.944,REPRODUCTIVE,Tuber bulking monitoring,24,36,Jan,Apr,1,Monitor canopy colour; yellowing = nutrient stress
+North East,Cassava,7,Jul,5,May,0.944,PRE_HARVEST,Maturity assessment,36,40,Apr,May,4,Check HCN content if bitter variety; test tuber size
+North East,Cassava,7,Jul,5,May,0.944,HARVEST,Harvesting,40,44,May,Jun,5,Mechanical or manual uprooting; avoid tuber damage
+North East,Cassava,7,Jul,5,May,0.944,POST_HARVEST,Processing or storage,44,48,Jun,Jul,6,Process within 24–48hrs (perishable); or wax-coat
+North East,Cassava,7,Jul,5,May,0.944,POST_HARVEST,Field ratoon or new land prep,44,52,Jun,Aug,6,For ratoon crop: cut stems to 50cm; fertilize
+North East,Cocoa beans,7,Jul,3,Mar,0.944,PRE_PLANTING,Nursery pod selection and seeding,-12,-8,Apr,May,4,Select pods from high-yielding trees; sow in poly bags
+North East,Cocoa beans,7,Jul,3,Mar,0.944,PRE_PLANTING,Shade tree establishment,-8,-4,May,Jun,5,Plant plantain or Gliricidia as temporary shade
+North East,Cocoa beans,7,Jul,3,Mar,0.944,PRE_PLANTING,Land preparation and pegging,-4,-2,Jun,Jun,6,Peg holes at 3×3m; apply basal fertilizer
+North East,Cocoa beans,7,Jul,3,Mar,0.944,PLANTING,Transplanting cocoa seedlings,0,0,Jul,Jul,7,Transplant 4–6 month seedlings; plant under shade
+North East,Cocoa beans,7,Jul,3,Mar,0.944,EARLY_GROWTH,Mulching and establishment care,1,8,Jul,Sep,7,Mulch basin; water if dry; control weeds by hand
+North East,Cocoa beans,7,Jul,3,Mar,0.944,VEGETATIVE,Shade management,8,16,Sep,Nov,9,Gradually reduce shade as canopy develops
+North East,Cocoa beans,7,Jul,3,Mar,0.944,VEGETATIVE,Fertilizer application,12,12,Oct,Oct,10,NPK at 12 months; apply in ring 30cm from stem
+North East,Cocoa beans,7,Jul,3,Mar,0.944,VEGETATIVE,Black pod disease scouting,12,32,Oct,Mar,10,Spray copper fungicide at 2-week intervals in wet season
+North East,Cocoa beans,7,Jul,3,Mar,0.944,VEGETATIVE,Pruning — jorquette formation,16,20,Nov,Dec,11,Shape jorquette; remove chupons and dead wood
+North East,Cocoa beans,7,Jul,3,Mar,0.944,REPRODUCTIVE,Flushing and flowering monitoring,24,32,Jan,Mar,1,Ensure good shade; remove mummified pods
+North East,Cocoa beans,7,Jul,3,Mar,0.944,REPRODUCTIVE,Cherelle wilt assessment,28,36,Feb,Apr,2,Normal to lose 80% of chereelles; do not panic
+North East,Cocoa beans,7,Jul,3,Mar,0.944,HARVEST,Pod breaking and bean extraction,36,44,Apr,Jun,4,Harvest yellow/orange pods; extract beans same day
+North East,Cocoa beans,7,Jul,3,Mar,0.944,POST_HARVEST,Fermentation,36,37,Apr,Apr,4,Ferment 5–6 days in boxes; turn daily from day 2
+North East,Cocoa beans,7,Jul,3,Mar,0.944,POST_HARVEST,Drying and grading,37,38,Apr,Apr,4,Sun-dry to 7.5% moisture; grade and bag 62.5kg
+North East,Maize,7,Jul,11,Nov,0.944,PRE_PLANTING,Land clearing and ploughing,-4,-3,Jun,Jun,6,Deep tillage 20–25cm; remove crop residues
+North East,Maize,7,Jul,11,Nov,0.944,PRE_PLANTING,Soil testing and input procurement,-3,-2,Jun,Jun,6,"Procure certified seed, NPK 15:15:15, herbicide"
+North East,Maize,7,Jul,11,Nov,0.944,PRE_PLANTING,Harrowing and ridging,-2,-1,Jun,Jun,6,Final seedbed preparation; form ridges or flat bed
+North East,Maize,7,Jul,11,Nov,0.944,PLANTING,Sowing,0,0,Jul,Jul,7,2–3 seeds/hole at 75×25cm spacing; thin to 1 plant
+North East,Maize,7,Jul,11,Nov,0.944,EARLY_GROWTH,Pre-emergence herbicide application,1,1,Jul,Jul,7,Apply within 3 days of planting on moist soil
+North East,Maize,7,Jul,11,Nov,0.944,EARLY_GROWTH,Gap filling,2,2,Jul,Jul,7,Replace failed stands; maintain plant population
+North East,Maize,7,Jul,11,Nov,0.944,EARLY_GROWTH,First weeding,3,4,Jul,Aug,7,Hand-hoe or post-emergence herbicide at 3 WAP
+North East,Maize,7,Jul,11,Nov,0.944,VEGETATIVE,First fertilizer application (NPK),4,4,Aug,Aug,8,Apply NPK 15:15:15 at 4 WAP; side-dress and cover
+North East,Maize,7,Jul,11,Nov,0.944,VEGETATIVE,Pest scouting — stem borer,5,8,Aug,Sep,8,Scout weekly; apply insecticide at threshold
+North East,Maize,7,Jul,11,Nov,0.944,VEGETATIVE,Second weeding,6,7,Aug,Aug,8,Before canopy closure; critical for yield protection
+North East,Maize,7,Jul,11,Nov,0.944,REPRODUCTIVE,Second fertilizer application (Urea),8,8,Sep,Sep,9,Urea top-dress at tasselling; do not fold into leaves
+North East,Maize,7,Jul,11,Nov,0.944,REPRODUCTIVE,Fall armyworm scouting,8,12,Sep,Oct,9,High-risk period; apply biopesticide if threshold met
+North East,Maize,7,Jul,11,Nov,0.944,REPRODUCTIVE,Pollination monitoring,9,10,Sep,Sep,9,Ensure good silk coverage; no pesticide during silking
+North East,Maize,7,Jul,11,Nov,0.944,PRE_HARVEST,Maturity assessment,14,15,Oct,Oct,10,Check husk colour and grain hardness; moisture <25%
+North East,Maize,7,Jul,11,Nov,0.944,HARVEST,Harvesting and field drying,15,16,Oct,Nov,10,Snap cobs; sun-dry to <13% moisture for storage
+North East,Maize,7,Jul,11,Nov,0.944,POST_HARVEST,Shelling and bagging,16,17,Nov,Nov,11,Shell when dry; use hermetic bags for storage
+North East,Maize,7,Jul,11,Nov,0.944,POST_HARVEST,Field cleanup and compost preparation,17,18,Nov,Nov,11,Incorporate stover; prepare compost pit for off-season
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,PRE_PLANTING,Pre-nursery preparation,-8,-6,May,May,5,Germinate seeds; transfer to pre-nursery at 3 months
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,PRE_PLANTING,Main nursery,-6,-1,May,Jun,5,Grow in main nursery 12 months; harden off before planting
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,PRE_PLANTING,Land clearing and holing,-2,-1,Jun,Jun,6,Clear undergrowth; dig 60×60×60cm holes; apply rock phos
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,PLANTING,Transplanting seedlings,0,0,Jul,Jul,7,Plant 18-month seedlings at 9×9m triangular; mulch basin
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,EARLY_GROWTH,Establishment weeding,2,4,Jul,Aug,7,Circle weed monthly for first 2 years
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,EARLY_GROWTH,Cover crop establishment,2,8,Jul,Sep,7,Sow Pueraria cover between palms to suppress weeds
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,VEGETATIVE,First year fertilizer,12,12,Oct,Oct,10,Muriate of Potash + Urea at 12 months per palm
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,VEGETATIVE,Frond management,16,20,Nov,Dec,11,Remove oldest fronds; do not over-prune
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,VEGETATIVE,Second year fertilizer,24,24,Jan,Jan,1,Full NPK per palm at year 2
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,REPRODUCTIVE,First bunch monitoring (yr 3+),36,52,Apr,Aug,4,Count bunches; thin excess in first bearing year
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,REPRODUCTIVE,Bunch harvest cycle begins,40,52,May,Aug,5,Harvest ripe bunches every 10–14 days
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,HARVEST,Ongoing bunch harvesting,40,52,May,Aug,5,Use harvesting chisel; harvest at black fruit threshold
+North East,Oil palm fruit,7,Jul,7,Jul,0.944,POST_HARVEST,FFB transport and processing,40,52,May,Aug,5,Transport within 24hrs to avoid FFA rise
+North East,Rice (paddy),8,Aug,1,Jan,0.944,PRE_PLANTING,Nursery bed preparation,-4,-4,Jul,Jul,7,Prepare raised nursery bed 1×10m per ha field
+North East,Rice (paddy),8,Aug,1,Jan,0.944,PRE_PLANTING,Seed soaking and pregermination,-3,-3,Jul,Jul,7,Soak 24hr; drain 24hr; sow at pin-point germination
+North East,Rice (paddy),8,Aug,1,Jan,0.944,PRE_PLANTING,Nursery seeding,-3,-2,Jul,Jul,7,Broadcast 40g/m² in nursery; flood to 2cm depth
+North East,Rice (paddy),8,Aug,1,Jan,0.944,PRE_PLANTING,Land puddling and bund construction,-2,-1,Jul,Jul,7,Puddle field; form bunds to retain water
+North East,Rice (paddy),8,Aug,1,Jan,0.944,PLANTING,Transplanting,0,1,Aug,Aug,8,Transplant 3-week-old seedlings; 2–3 per hill; 20×20cm
+North East,Rice (paddy),8,Aug,1,Jan,0.944,EARLY_GROWTH,Flood management,1,3,Aug,Aug,8,Maintain 5cm flood depth; drain for weeding
+North East,Rice (paddy),8,Aug,1,Jan,0.944,EARLY_GROWTH,First weeding (drain and hand-weed),2,3,Aug,Aug,8,Drain field; weed; re-flood within 24hrs
+North East,Rice (paddy),8,Aug,1,Jan,0.944,VEGETATIVE,First fertilizer application (NPK),3,3,Aug,Aug,8,Apply before re-flooding; broadcast and flood
+North East,Rice (paddy),8,Aug,1,Jan,0.944,VEGETATIVE,Pest scouting — stem borer and BPH,4,10,Sep,Oct,9,Scout twice weekly; avoid broad-spectrum at tillering
+North East,Rice (paddy),8,Aug,1,Jan,0.944,VEGETATIVE,Second weeding or herbicide,5,6,Sep,Sep,9,Post-emergence herbicide or drain-and-hoe
+North East,Rice (paddy),8,Aug,1,Jan,0.944,REPRODUCTIVE,Second fertilizer — Urea at panicle,8,8,Oct,Oct,10,Panicle initiation top-dress; drain 3 days before
+North East,Rice (paddy),8,Aug,1,Jan,0.944,REPRODUCTIVE,Water management at flowering,9,11,Oct,Oct,10,Maintain 5cm flood; critical for pollination
+North East,Rice (paddy),8,Aug,1,Jan,0.944,PRE_HARVEST,Drain field and maturity check,13,14,Nov,Nov,11,Drain 2 weeks before harvest; check grain moisture
+North East,Rice (paddy),8,Aug,1,Jan,0.944,HARVEST,Harvesting and threshing,14,16,Nov,Dec,11,Harvest at <25% moisture; thresh within 24hrs
+North East,Rice (paddy),8,Aug,1,Jan,0.944,POST_HARVEST,Drying and milling preparation,16,18,Dec,Dec,12,Sun-dry to <14%; bag for milling or storage
+North East,Sorghum,7,Jul,12,Dec,0.944,PRE_PLANTING,Land clearing and tillage,-4,-3,Jun,Jun,6,Minimum tillage acceptable; remove previous stubble
+North East,Sorghum,7,Jul,12,Dec,0.944,PRE_PLANTING,Input procurement,-2,-1,Jun,Jun,6,"Procure certified seed, NPK fertilizer"
+North East,Sorghum,7,Jul,12,Dec,0.944,PLANTING,Sowing,0,0,Jul,Jul,7,Drill or spot sow; 75×20cm; thin to 1 plant at 2 WAP
+North East,Sorghum,7,Jul,12,Dec,0.944,EARLY_GROWTH,Thinning and gap filling,2,3,Jul,Jul,7,Thin to 1 seedling/hole; fill gaps with reserve seed
+North East,Sorghum,7,Jul,12,Dec,0.944,VEGETATIVE,"Pest scouting — shoot fly, aphids",2,10,Jul,Sep,7,Scout weekly; apply systemic insecticide at threshold
+North East,Sorghum,7,Jul,12,Dec,0.944,EARLY_GROWTH,First weeding,3,5,Jul,Aug,7,Critical period; weed before 4 WAP
+North East,Sorghum,7,Jul,12,Dec,0.944,VEGETATIVE,Fertilizer application,5,5,Aug,Aug,8,NPK at 5 WAP; side-dress; avoid waterlogging
+North East,Sorghum,7,Jul,12,Dec,0.944,VEGETATIVE,Second weeding,7,8,Aug,Sep,8,Before panicle initiation
+North East,Sorghum,7,Jul,12,Dec,0.944,REPRODUCTIVE,Bird scare implementation,14,18,Oct,Nov,10,Continuous bird-scaring from grain filling to harvest
+North East,Sorghum,7,Jul,12,Dec,0.944,REPRODUCTIVE,Mould monitoring,15,20,Oct,Dec,10,Check for grain mould in high-humidity zones
+North East,Sorghum,7,Jul,12,Dec,0.944,PRE_HARVEST,Maturity assessment,18,20,Nov,Dec,11,Panicle colour and grain hardness check
+North East,Sorghum,7,Jul,12,Dec,0.944,HARVEST,Harvesting,20,21,Dec,Dec,12,Cut panicles; head by head; avoid shattering
+North East,Sorghum,7,Jul,12,Dec,0.944,POST_HARVEST,Threshing and drying,21,22,Dec,Dec,12,Sun-dry to <12% moisture; bag in hermetic storage
+North East,Yam,6,Jun,1,Jan,0.944,PRE_PLANTING,Mound construction,-4,-3,May,May,5,Form 1×1m mounds 30–50cm high before rains; labour-intensive
+North East,Yam,6,Jun,1,Jan,0.944,PRE_PLANTING,Seed yam sett preparation,-3,-2,May,May,5,Cut setts 150–200g; dust with fungicide/ash; cure 7 days
+North East,Yam,6,Jun,1,Jan,0.944,PRE_PLANTING,Staking material procurement,-2,-1,May,May,5,"Procure 5,000 stakes/ha; pre-plant before sowing"
+North East,Yam,6,Jun,1,Jan,0.944,PLANTING,Planting seed yam setts,0,0,Jun,Jun,6,Plant on top of mound; 5cm depth; 1 sett/mound
+North East,Yam,6,Jun,1,Jan,0.944,EARLY_GROWTH,Staking young vines,3,4,Jun,Jul,6,Stake vines at 3–4 WAP to prevent lodging
+North East,Yam,6,Jun,1,Jan,0.944,EARLY_GROWTH,First weeding,3,5,Jun,Jul,6,Hand weed; avoid disturbing tuber zone
+North East,Yam,6,Jun,1,Jan,0.944,VEGETATIVE,First fertilizer application,6,6,Jul,Jul,7,NPK 15:15:15 at 6 WAP; side-dress around mound
+North East,Yam,6,Jun,1,Jan,0.944,VEGETATIVE,Pest scouting — yam mosaic virus,6,20,Jul,Nov,7,Scout weekly; rogue infected vines immediately
+North East,Yam,6,Jun,1,Jan,0.944,VEGETATIVE,Second weeding,8,10,Aug,Aug,8,Critical for tuber bulking; avoid root disturbance
+North East,Yam,6,Jun,1,Jan,0.944,VEGETATIVE,Second fertilizer application,10,10,Aug,Aug,8,Muriate of Potash for tuber quality
+North East,Yam,6,Jun,1,Jan,0.944,REPRODUCTIVE,Tuber monitoring,20,28,Nov,Jan,11,Observe vine senescence; partial harvest possible
+North East,Yam,6,Jun,1,Jan,0.944,PRE_HARVEST,Vine senescence assessment,26,28,Dec,Jan,12,80% vine dry-down indicates harvest readiness
+North East,Yam,6,Jun,1,Jan,0.944,HARVEST,Harvesting and destaking,28,30,Jan,Jan,1,Manual dig; avoid cuts; destake before lifting
+North East,Yam,6,Jun,1,Jan,0.944,POST_HARVEST,Barn storage or yam barn construction,30,32,Jan,Feb,1,Stack in shaded barn; inspect monthly for rot
+North West,Cassava,6,Jun,4,Apr,1.0,PRE_PLANTING,Land clearing and primary tillage,-4,-3,May,May,5,Remove stumps; plough to 30cm depth
+North West,Cassava,6,Jun,4,Apr,1.0,PRE_PLANTING,Stem cutting procurement and curing,-2,-1,May,May,5,Select disease-free cuttings 25cm long; cure 3–5 days
+North West,Cassava,6,Jun,4,Apr,1.0,PRE_PLANTING,Mound or ridge formation,-1,0,May,Jun,5,Form ridges 30cm high; spacing 1×1m
+North West,Cassava,6,Jun,4,Apr,1.0,PLANTING,Planting stem cuttings,0,0,Jun,Jun,6,"Plant at 45° angle, 2/3 buried; 10,000 cuttings/ha"
+North West,Cassava,6,Jun,4,Apr,1.0,EARLY_GROWTH,Gap filling,2,3,Jun,Jun,6,Replace failed cuttings before canopy closure
+North West,Cassava,6,Jun,4,Apr,1.0,EARLY_GROWTH,First weeding,4,6,Jul,Jul,7,Critical period: weed-free first 3 months
+North West,Cassava,6,Jun,4,Apr,1.0,VEGETATIVE,First fertilizer application,8,8,Aug,Aug,8,NPK 15:15:15 at 2 months; place 10cm from stem
+North West,Cassava,6,Jun,4,Apr,1.0,VEGETATIVE,Pest scouting — whitefly and CMD,8,20,Aug,Nov,8,Scout fortnightly; rogue CMV-infected plants
+North West,Cassava,6,Jun,4,Apr,1.0,VEGETATIVE,Second weeding,10,12,Aug,Sep,8,Before secondary canopy closure
+North West,Cassava,6,Jun,4,Apr,1.0,VEGETATIVE,Second fertilizer application,16,16,Oct,Oct,10,Potassium sulphate at 4 months for tuber bulking
+North West,Cassava,6,Jun,4,Apr,1.0,REPRODUCTIVE,Tuber bulking monitoring,24,36,Dec,Mar,12,Monitor canopy colour; yellowing = nutrient stress
+North West,Cassava,6,Jun,4,Apr,1.0,PRE_HARVEST,Maturity assessment,36,40,Mar,Apr,3,Check HCN content if bitter variety; test tuber size
+North West,Cassava,6,Jun,4,Apr,1.0,HARVEST,Harvesting,40,44,Apr,May,4,Mechanical or manual uprooting; avoid tuber damage
+North West,Cassava,6,Jun,4,Apr,1.0,POST_HARVEST,Processing or storage,44,48,May,Jun,5,Process within 24–48hrs (perishable); or wax-coat
+North West,Cassava,6,Jun,4,Apr,1.0,POST_HARVEST,Field ratoon or new land prep,44,52,May,Jul,5,For ratoon crop: cut stems to 50cm; fertilize
+North West,Cocoa beans,6,Jun,2,Feb,1.0,PRE_PLANTING,Nursery pod selection and seeding,-12,-8,Mar,Apr,3,Select pods from high-yielding trees; sow in poly bags
+North West,Cocoa beans,6,Jun,2,Feb,1.0,PRE_PLANTING,Shade tree establishment,-8,-4,Apr,May,4,Plant plantain or Gliricidia as temporary shade
+North West,Cocoa beans,6,Jun,2,Feb,1.0,PRE_PLANTING,Land preparation and pegging,-4,-2,May,May,5,Peg holes at 3×3m; apply basal fertilizer
+North West,Cocoa beans,6,Jun,2,Feb,1.0,PLANTING,Transplanting cocoa seedlings,0,0,Jun,Jun,6,Transplant 4–6 month seedlings; plant under shade
+North West,Cocoa beans,6,Jun,2,Feb,1.0,EARLY_GROWTH,Mulching and establishment care,1,8,Jun,Aug,6,Mulch basin; water if dry; control weeds by hand
+North West,Cocoa beans,6,Jun,2,Feb,1.0,VEGETATIVE,Shade management,8,16,Aug,Oct,8,Gradually reduce shade as canopy develops
+North West,Cocoa beans,6,Jun,2,Feb,1.0,VEGETATIVE,Fertilizer application,12,12,Sep,Sep,9,NPK at 12 months; apply in ring 30cm from stem
+North West,Cocoa beans,6,Jun,2,Feb,1.0,VEGETATIVE,Black pod disease scouting,12,32,Sep,Feb,9,Spray copper fungicide at 2-week intervals in wet season
+North West,Cocoa beans,6,Jun,2,Feb,1.0,VEGETATIVE,Pruning — jorquette formation,16,20,Oct,Nov,10,Shape jorquette; remove chupons and dead wood
+North West,Cocoa beans,6,Jun,2,Feb,1.0,REPRODUCTIVE,Flushing and flowering monitoring,24,32,Dec,Feb,12,Ensure good shade; remove mummified pods
+North West,Cocoa beans,6,Jun,2,Feb,1.0,REPRODUCTIVE,Cherelle wilt assessment,28,36,Jan,Mar,1,Normal to lose 80% of chereelles; do not panic
+North West,Cocoa beans,6,Jun,2,Feb,1.0,HARVEST,Pod breaking and bean extraction,36,44,Mar,May,3,Harvest yellow/orange pods; extract beans same day
+North West,Cocoa beans,6,Jun,2,Feb,1.0,POST_HARVEST,Fermentation,36,37,Mar,Mar,3,Ferment 5–6 days in boxes; turn daily from day 2
+North West,Cocoa beans,6,Jun,2,Feb,1.0,POST_HARVEST,Drying and grading,37,38,Mar,Mar,3,Sun-dry to 7.5% moisture; grade and bag 62.5kg
+North West,Maize,6,Jun,10,Oct,1.0,PRE_PLANTING,Land clearing and ploughing,-4,-3,May,May,5,Deep tillage 20–25cm; remove crop residues
+North West,Maize,6,Jun,10,Oct,1.0,PRE_PLANTING,Soil testing and input procurement,-3,-2,May,May,5,"Procure certified seed, NPK 15:15:15, herbicide"
+North West,Maize,6,Jun,10,Oct,1.0,PRE_PLANTING,Harrowing and ridging,-2,-1,May,May,5,Final seedbed preparation; form ridges or flat bed
+North West,Maize,6,Jun,10,Oct,1.0,PLANTING,Sowing,0,0,Jun,Jun,6,2–3 seeds/hole at 75×25cm spacing; thin to 1 plant
+North West,Maize,6,Jun,10,Oct,1.0,EARLY_GROWTH,Pre-emergence herbicide application,1,1,Jun,Jun,6,Apply within 3 days of planting on moist soil
+North West,Maize,6,Jun,10,Oct,1.0,EARLY_GROWTH,Gap filling,2,2,Jun,Jun,6,Replace failed stands; maintain plant population
+North West,Maize,6,Jun,10,Oct,1.0,EARLY_GROWTH,First weeding,3,4,Jun,Jul,6,Hand-hoe or post-emergence herbicide at 3 WAP
+North West,Maize,6,Jun,10,Oct,1.0,VEGETATIVE,First fertilizer application (NPK),4,4,Jul,Jul,7,Apply NPK 15:15:15 at 4 WAP; side-dress and cover
+North West,Maize,6,Jun,10,Oct,1.0,VEGETATIVE,Pest scouting — stem borer,5,8,Jul,Aug,7,Scout weekly; apply insecticide at threshold
+North West,Maize,6,Jun,10,Oct,1.0,VEGETATIVE,Second weeding,6,7,Jul,Jul,7,Before canopy closure; critical for yield protection
+North West,Maize,6,Jun,10,Oct,1.0,REPRODUCTIVE,Second fertilizer application (Urea),8,8,Aug,Aug,8,Urea top-dress at tasselling; do not fold into leaves
+North West,Maize,6,Jun,10,Oct,1.0,REPRODUCTIVE,Fall armyworm scouting,8,12,Aug,Sep,8,High-risk period; apply biopesticide if threshold met
+North West,Maize,6,Jun,10,Oct,1.0,REPRODUCTIVE,Pollination monitoring,9,10,Aug,Aug,8,Ensure good silk coverage; no pesticide during silking
+North West,Maize,6,Jun,10,Oct,1.0,PRE_HARVEST,Maturity assessment,14,15,Sep,Sep,9,Check husk colour and grain hardness; moisture <25%
+North West,Maize,6,Jun,10,Oct,1.0,HARVEST,Harvesting and field drying,15,16,Sep,Oct,9,Snap cobs; sun-dry to <13% moisture for storage
+North West,Maize,6,Jun,10,Oct,1.0,POST_HARVEST,Shelling and bagging,16,17,Oct,Oct,10,Shell when dry; use hermetic bags for storage
+North West,Maize,6,Jun,10,Oct,1.0,POST_HARVEST,Field cleanup and compost preparation,17,18,Oct,Oct,10,Incorporate stover; prepare compost pit for off-season
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,PRE_PLANTING,Pre-nursery preparation,-8,-6,Apr,Apr,4,Germinate seeds; transfer to pre-nursery at 3 months
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,PRE_PLANTING,Main nursery,-6,-1,Apr,May,4,Grow in main nursery 12 months; harden off before planting
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,PRE_PLANTING,Land clearing and holing,-2,-1,May,May,5,Clear undergrowth; dig 60×60×60cm holes; apply rock phos
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,PLANTING,Transplanting seedlings,0,0,Jun,Jun,6,Plant 18-month seedlings at 9×9m triangular; mulch basin
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,EARLY_GROWTH,Establishment weeding,2,4,Jun,Jul,6,Circle weed monthly for first 2 years
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,EARLY_GROWTH,Cover crop establishment,2,8,Jun,Aug,6,Sow Pueraria cover between palms to suppress weeds
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,VEGETATIVE,First year fertilizer,12,12,Sep,Sep,9,Muriate of Potash + Urea at 12 months per palm
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,VEGETATIVE,Frond management,16,20,Oct,Nov,10,Remove oldest fronds; do not over-prune
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,VEGETATIVE,Second year fertilizer,24,24,Dec,Dec,12,Full NPK per palm at year 2
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,REPRODUCTIVE,First bunch monitoring (yr 3+),36,52,Mar,Jul,3,Count bunches; thin excess in first bearing year
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,REPRODUCTIVE,Bunch harvest cycle begins,40,52,Apr,Jul,4,Harvest ripe bunches every 10–14 days
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,HARVEST,Ongoing bunch harvesting,40,52,Apr,Jul,4,Use harvesting chisel; harvest at black fruit threshold
+North West,Oil palm fruit,6,Jun,6,Jun,1.0,POST_HARVEST,FFB transport and processing,40,52,Apr,Jul,4,Transport within 24hrs to avoid FFA rise
+North West,Rice (paddy),7,Jul,12,Dec,1.0,PRE_PLANTING,Nursery bed preparation,-4,-4,Jun,Jun,6,Prepare raised nursery bed 1×10m per ha field
+North West,Rice (paddy),7,Jul,12,Dec,1.0,PRE_PLANTING,Seed soaking and pregermination,-3,-3,Jun,Jun,6,Soak 24hr; drain 24hr; sow at pin-point germination
+North West,Rice (paddy),7,Jul,12,Dec,1.0,PRE_PLANTING,Nursery seeding,-3,-2,Jun,Jun,6,Broadcast 40g/m² in nursery; flood to 2cm depth
+North West,Rice (paddy),7,Jul,12,Dec,1.0,PRE_PLANTING,Land puddling and bund construction,-2,-1,Jun,Jun,6,Puddle field; form bunds to retain water
+North West,Rice (paddy),7,Jul,12,Dec,1.0,PLANTING,Transplanting,0,1,Jul,Jul,7,Transplant 3-week-old seedlings; 2–3 per hill; 20×20cm
+North West,Rice (paddy),7,Jul,12,Dec,1.0,EARLY_GROWTH,Flood management,1,3,Jul,Jul,7,Maintain 5cm flood depth; drain for weeding
+North West,Rice (paddy),7,Jul,12,Dec,1.0,EARLY_GROWTH,First weeding (drain and hand-weed),2,3,Jul,Jul,7,Drain field; weed; re-flood within 24hrs
+North West,Rice (paddy),7,Jul,12,Dec,1.0,VEGETATIVE,First fertilizer application (NPK),3,3,Jul,Jul,7,Apply before re-flooding; broadcast and flood
+North West,Rice (paddy),7,Jul,12,Dec,1.0,VEGETATIVE,Pest scouting — stem borer and BPH,4,10,Aug,Sep,8,Scout twice weekly; avoid broad-spectrum at tillering
+North West,Rice (paddy),7,Jul,12,Dec,1.0,VEGETATIVE,Second weeding or herbicide,5,6,Aug,Aug,8,Post-emergence herbicide or drain-and-hoe
+North West,Rice (paddy),7,Jul,12,Dec,1.0,REPRODUCTIVE,Second fertilizer — Urea at panicle,8,8,Sep,Sep,9,Panicle initiation top-dress; drain 3 days before
+North West,Rice (paddy),7,Jul,12,Dec,1.0,REPRODUCTIVE,Water management at flowering,9,11,Sep,Sep,9,Maintain 5cm flood; critical for pollination
+North West,Rice (paddy),7,Jul,12,Dec,1.0,PRE_HARVEST,Drain field and maturity check,13,14,Oct,Oct,10,Drain 2 weeks before harvest; check grain moisture
+North West,Rice (paddy),7,Jul,12,Dec,1.0,HARVEST,Harvesting and threshing,14,16,Oct,Nov,10,Harvest at <25% moisture; thresh within 24hrs
+North West,Rice (paddy),7,Jul,12,Dec,1.0,POST_HARVEST,Drying and milling preparation,16,18,Nov,Nov,11,Sun-dry to <14%; bag for milling or storage
+North West,Sorghum,6,Jun,11,Nov,1.0,PRE_PLANTING,Land clearing and tillage,-4,-3,May,May,5,Minimum tillage acceptable; remove previous stubble
+North West,Sorghum,6,Jun,11,Nov,1.0,PRE_PLANTING,Input procurement,-2,-1,May,May,5,"Procure certified seed, NPK fertilizer"
+North West,Sorghum,6,Jun,11,Nov,1.0,PLANTING,Sowing,0,0,Jun,Jun,6,Drill or spot sow; 75×20cm; thin to 1 plant at 2 WAP
+North West,Sorghum,6,Jun,11,Nov,1.0,EARLY_GROWTH,Thinning and gap filling,2,3,Jun,Jun,6,Thin to 1 seedling/hole; fill gaps with reserve seed
+North West,Sorghum,6,Jun,11,Nov,1.0,VEGETATIVE,"Pest scouting — shoot fly, aphids",2,10,Jun,Aug,6,Scout weekly; apply systemic insecticide at threshold
+North West,Sorghum,6,Jun,11,Nov,1.0,EARLY_GROWTH,First weeding,3,5,Jun,Jul,6,Critical period; weed before 4 WAP
+North West,Sorghum,6,Jun,11,Nov,1.0,VEGETATIVE,Fertilizer application,5,5,Jul,Jul,7,NPK at 5 WAP; side-dress; avoid waterlogging
+North West,Sorghum,6,Jun,11,Nov,1.0,VEGETATIVE,Second weeding,7,8,Jul,Aug,7,Before panicle initiation
+North West,Sorghum,6,Jun,11,Nov,1.0,REPRODUCTIVE,Bird scare implementation,14,18,Sep,Oct,9,Continuous bird-scaring from grain filling to harvest
+North West,Sorghum,6,Jun,11,Nov,1.0,REPRODUCTIVE,Mould monitoring,15,20,Sep,Nov,9,Check for grain mould in high-humidity zones
+North West,Sorghum,6,Jun,11,Nov,1.0,PRE_HARVEST,Maturity assessment,18,20,Oct,Nov,10,Panicle colour and grain hardness check
+North West,Sorghum,6,Jun,11,Nov,1.0,HARVEST,Harvesting,20,21,Nov,Nov,11,Cut panicles; head by head; avoid shattering
+North West,Sorghum,6,Jun,11,Nov,1.0,POST_HARVEST,Threshing and drying,21,22,Nov,Nov,11,Sun-dry to <12% moisture; bag in hermetic storage
+North West,Yam,5,May,12,Dec,1.0,PRE_PLANTING,Mound construction,-4,-3,Apr,Apr,4,Form 1×1m mounds 30–50cm high before rains; labour-intensive
+North West,Yam,5,May,12,Dec,1.0,PRE_PLANTING,Seed yam sett preparation,-3,-2,Apr,Apr,4,Cut setts 150–200g; dust with fungicide/ash; cure 7 days
+North West,Yam,5,May,12,Dec,1.0,PRE_PLANTING,Staking material procurement,-2,-1,Apr,Apr,4,"Procure 5,000 stakes/ha; pre-plant before sowing"
+North West,Yam,5,May,12,Dec,1.0,PLANTING,Planting seed yam setts,0,0,May,May,5,Plant on top of mound; 5cm depth; 1 sett/mound
+North West,Yam,5,May,12,Dec,1.0,EARLY_GROWTH,Staking young vines,3,4,May,Jun,5,Stake vines at 3–4 WAP to prevent lodging
+North West,Yam,5,May,12,Dec,1.0,EARLY_GROWTH,First weeding,3,5,May,Jun,5,Hand weed; avoid disturbing tuber zone
+North West,Yam,5,May,12,Dec,1.0,VEGETATIVE,First fertilizer application,6,6,Jun,Jun,6,NPK 15:15:15 at 6 WAP; side-dress around mound
+North West,Yam,5,May,12,Dec,1.0,VEGETATIVE,Pest scouting — yam mosaic virus,6,20,Jun,Oct,6,Scout weekly; rogue infected vines immediately
+North West,Yam,5,May,12,Dec,1.0,VEGETATIVE,Second weeding,8,10,Jul,Jul,7,Critical for tuber bulking; avoid root disturbance
+North West,Yam,5,May,12,Dec,1.0,VEGETATIVE,Second fertilizer application,10,10,Jul,Jul,7,Muriate of Potash for tuber quality
+North West,Yam,5,May,12,Dec,1.0,REPRODUCTIVE,Tuber monitoring,20,28,Oct,Dec,10,Observe vine senescence; partial harvest possible
+North West,Yam,5,May,12,Dec,1.0,PRE_HARVEST,Vine senescence assessment,26,28,Nov,Dec,11,80% vine dry-down indicates harvest readiness
+North West,Yam,5,May,12,Dec,1.0,HARVEST,Harvesting and destaking,28,30,Dec,Dec,12,Manual dig; avoid cuts; destake before lifting
+North West,Yam,5,May,12,Dec,1.0,POST_HARVEST,Barn storage or yam barn construction,30,32,Dec,Jan,12,Stack in shaded barn; inspect monthly for rot
+South East,Cassava,3,Mar,1,Jan,1.0,PRE_PLANTING,Land clearing and primary tillage,-4,-3,Feb,Feb,2,Remove stumps; plough to 30cm depth
+South East,Cassava,3,Mar,1,Jan,1.0,PRE_PLANTING,Stem cutting procurement and curing,-2,-1,Feb,Feb,2,Select disease-free cuttings 25cm long; cure 3–5 days
+South East,Cassava,3,Mar,1,Jan,1.0,PRE_PLANTING,Mound or ridge formation,-1,0,Feb,Mar,2,Form ridges 30cm high; spacing 1×1m
+South East,Cassava,3,Mar,1,Jan,1.0,PLANTING,Planting stem cuttings,0,0,Mar,Mar,3,"Plant at 45° angle, 2/3 buried; 10,000 cuttings/ha"
+South East,Cassava,3,Mar,1,Jan,1.0,EARLY_GROWTH,Gap filling,2,3,Mar,Mar,3,Replace failed cuttings before canopy closure
+South East,Cassava,3,Mar,1,Jan,1.0,EARLY_GROWTH,First weeding,4,6,Apr,Apr,4,Critical period: weed-free first 3 months
+South East,Cassava,3,Mar,1,Jan,1.0,VEGETATIVE,First fertilizer application,8,8,May,May,5,NPK 15:15:15 at 2 months; place 10cm from stem
+South East,Cassava,3,Mar,1,Jan,1.0,VEGETATIVE,Pest scouting — whitefly and CMD,8,20,May,Aug,5,Scout fortnightly; rogue CMV-infected plants
+South East,Cassava,3,Mar,1,Jan,1.0,VEGETATIVE,Second weeding,10,12,May,Jun,5,Before secondary canopy closure
+South East,Cassava,3,Mar,1,Jan,1.0,VEGETATIVE,Second fertilizer application,16,16,Jul,Jul,7,Potassium sulphate at 4 months for tuber bulking
+South East,Cassava,3,Mar,1,Jan,1.0,REPRODUCTIVE,Tuber bulking monitoring,24,36,Sep,Dec,9,Monitor canopy colour; yellowing = nutrient stress
+South East,Cassava,3,Mar,1,Jan,1.0,PRE_HARVEST,Maturity assessment,36,40,Dec,Jan,12,Check HCN content if bitter variety; test tuber size
+South East,Cassava,3,Mar,1,Jan,1.0,HARVEST,Harvesting,40,44,Jan,Feb,1,Mechanical or manual uprooting; avoid tuber damage
+South East,Cassava,3,Mar,1,Jan,1.0,POST_HARVEST,Processing or storage,44,48,Feb,Mar,2,Process within 24–48hrs (perishable); or wax-coat
+South East,Cassava,3,Mar,1,Jan,1.0,POST_HARVEST,Field ratoon or new land prep,44,52,Feb,Apr,2,For ratoon crop: cut stems to 50cm; fertilize
+South East,Cocoa beans,3,Mar,11,Nov,1.0,PRE_PLANTING,Nursery pod selection and seeding,-12,-8,Dec,Jan,12,Select pods from high-yielding trees; sow in poly bags
+South East,Cocoa beans,3,Mar,11,Nov,1.0,PRE_PLANTING,Shade tree establishment,-8,-4,Jan,Feb,1,Plant plantain or Gliricidia as temporary shade
+South East,Cocoa beans,3,Mar,11,Nov,1.0,PRE_PLANTING,Land preparation and pegging,-4,-2,Feb,Feb,2,Peg holes at 3×3m; apply basal fertilizer
+South East,Cocoa beans,3,Mar,11,Nov,1.0,PLANTING,Transplanting cocoa seedlings,0,0,Mar,Mar,3,Transplant 4–6 month seedlings; plant under shade
+South East,Cocoa beans,3,Mar,11,Nov,1.0,EARLY_GROWTH,Mulching and establishment care,1,8,Mar,May,3,Mulch basin; water if dry; control weeds by hand
+South East,Cocoa beans,3,Mar,11,Nov,1.0,VEGETATIVE,Shade management,8,16,May,Jul,5,Gradually reduce shade as canopy develops
+South East,Cocoa beans,3,Mar,11,Nov,1.0,VEGETATIVE,Fertilizer application,12,12,Jun,Jun,6,NPK at 12 months; apply in ring 30cm from stem
+South East,Cocoa beans,3,Mar,11,Nov,1.0,VEGETATIVE,Black pod disease scouting,12,32,Jun,Nov,6,Spray copper fungicide at 2-week intervals in wet season
+South East,Cocoa beans,3,Mar,11,Nov,1.0,VEGETATIVE,Pruning — jorquette formation,16,20,Jul,Aug,7,Shape jorquette; remove chupons and dead wood
+South East,Cocoa beans,3,Mar,11,Nov,1.0,REPRODUCTIVE,Flushing and flowering monitoring,24,32,Sep,Nov,9,Ensure good shade; remove mummified pods
+South East,Cocoa beans,3,Mar,11,Nov,1.0,REPRODUCTIVE,Cherelle wilt assessment,28,36,Oct,Dec,10,Normal to lose 80% of chereelles; do not panic
+South East,Cocoa beans,3,Mar,11,Nov,1.0,HARVEST,Pod breaking and bean extraction,36,44,Dec,Feb,12,Harvest yellow/orange pods; extract beans same day
+South East,Cocoa beans,3,Mar,11,Nov,1.0,POST_HARVEST,Fermentation,36,37,Dec,Dec,12,Ferment 5–6 days in boxes; turn daily from day 2
+South East,Cocoa beans,3,Mar,11,Nov,1.0,POST_HARVEST,Drying and grading,37,38,Dec,Dec,12,Sun-dry to 7.5% moisture; grade and bag 62.5kg
+South East,Maize,3,Mar,7,Jul,1.0,PRE_PLANTING,Land clearing and ploughing,-4,-3,Feb,Feb,2,Deep tillage 20–25cm; remove crop residues
+South East,Maize,3,Mar,7,Jul,1.0,PRE_PLANTING,Soil testing and input procurement,-3,-2,Feb,Feb,2,"Procure certified seed, NPK 15:15:15, herbicide"
+South East,Maize,3,Mar,7,Jul,1.0,PRE_PLANTING,Harrowing and ridging,-2,-1,Feb,Feb,2,Final seedbed preparation; form ridges or flat bed
+South East,Maize,3,Mar,7,Jul,1.0,PLANTING,Sowing,0,0,Mar,Mar,3,2–3 seeds/hole at 75×25cm spacing; thin to 1 plant
+South East,Maize,3,Mar,7,Jul,1.0,EARLY_GROWTH,Pre-emergence herbicide application,1,1,Mar,Mar,3,Apply within 3 days of planting on moist soil
+South East,Maize,3,Mar,7,Jul,1.0,EARLY_GROWTH,Gap filling,2,2,Mar,Mar,3,Replace failed stands; maintain plant population
+South East,Maize,3,Mar,7,Jul,1.0,EARLY_GROWTH,First weeding,3,4,Mar,Apr,3,Hand-hoe or post-emergence herbicide at 3 WAP
+South East,Maize,3,Mar,7,Jul,1.0,VEGETATIVE,First fertilizer application (NPK),4,4,Apr,Apr,4,Apply NPK 15:15:15 at 4 WAP; side-dress and cover
+South East,Maize,3,Mar,7,Jul,1.0,VEGETATIVE,Pest scouting — stem borer,5,8,Apr,May,4,Scout weekly; apply insecticide at threshold
+South East,Maize,3,Mar,7,Jul,1.0,VEGETATIVE,Second weeding,6,7,Apr,Apr,4,Before canopy closure; critical for yield protection
+South East,Maize,3,Mar,7,Jul,1.0,REPRODUCTIVE,Second fertilizer application (Urea),8,8,May,May,5,Urea top-dress at tasselling; do not fold into leaves
+South East,Maize,3,Mar,7,Jul,1.0,REPRODUCTIVE,Fall armyworm scouting,8,12,May,Jun,5,High-risk period; apply biopesticide if threshold met
+South East,Maize,3,Mar,7,Jul,1.0,REPRODUCTIVE,Pollination monitoring,9,10,May,May,5,Ensure good silk coverage; no pesticide during silking
+South East,Maize,3,Mar,7,Jul,1.0,PRE_HARVEST,Maturity assessment,14,15,Jun,Jun,6,Check husk colour and grain hardness; moisture <25%
+South East,Maize,3,Mar,7,Jul,1.0,HARVEST,Harvesting and field drying,15,16,Jun,Jul,6,Snap cobs; sun-dry to <13% moisture for storage
+South East,Maize,3,Mar,7,Jul,1.0,POST_HARVEST,Shelling and bagging,16,17,Jul,Jul,7,Shell when dry; use hermetic bags for storage
+South East,Maize,3,Mar,7,Jul,1.0,POST_HARVEST,Field cleanup and compost preparation,17,18,Jul,Jul,7,Incorporate stover; prepare compost pit for off-season
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,PRE_PLANTING,Pre-nursery preparation,-8,-6,Jan,Jan,1,Germinate seeds; transfer to pre-nursery at 3 months
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,PRE_PLANTING,Main nursery,-6,-1,Jan,Feb,1,Grow in main nursery 12 months; harden off before planting
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,PRE_PLANTING,Land clearing and holing,-2,-1,Feb,Feb,2,Clear undergrowth; dig 60×60×60cm holes; apply rock phos
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,PLANTING,Transplanting seedlings,0,0,Mar,Mar,3,Plant 18-month seedlings at 9×9m triangular; mulch basin
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,EARLY_GROWTH,Establishment weeding,2,4,Mar,Apr,3,Circle weed monthly for first 2 years
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,EARLY_GROWTH,Cover crop establishment,2,8,Mar,May,3,Sow Pueraria cover between palms to suppress weeds
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,VEGETATIVE,First year fertilizer,12,12,Jun,Jun,6,Muriate of Potash + Urea at 12 months per palm
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,VEGETATIVE,Frond management,16,20,Jul,Aug,7,Remove oldest fronds; do not over-prune
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,VEGETATIVE,Second year fertilizer,24,24,Sep,Sep,9,Full NPK per palm at year 2
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,REPRODUCTIVE,First bunch monitoring (yr 3+),36,52,Dec,Apr,12,Count bunches; thin excess in first bearing year
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,REPRODUCTIVE,Bunch harvest cycle begins,40,52,Jan,Apr,1,Harvest ripe bunches every 10–14 days
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,HARVEST,Ongoing bunch harvesting,40,52,Jan,Apr,1,Use harvesting chisel; harvest at black fruit threshold
+South East,Oil palm fruit,3,Mar,3,Mar,1.0,POST_HARVEST,FFB transport and processing,40,52,Jan,Apr,1,Transport within 24hrs to avoid FFA rise
+South East,Rice (paddy),4,Apr,9,Sep,1.0,PRE_PLANTING,Nursery bed preparation,-4,-4,Mar,Mar,3,Prepare raised nursery bed 1×10m per ha field
+South East,Rice (paddy),4,Apr,9,Sep,1.0,PRE_PLANTING,Seed soaking and pregermination,-3,-3,Mar,Mar,3,Soak 24hr; drain 24hr; sow at pin-point germination
+South East,Rice (paddy),4,Apr,9,Sep,1.0,PRE_PLANTING,Nursery seeding,-3,-2,Mar,Mar,3,Broadcast 40g/m² in nursery; flood to 2cm depth
+South East,Rice (paddy),4,Apr,9,Sep,1.0,PRE_PLANTING,Land puddling and bund construction,-2,-1,Mar,Mar,3,Puddle field; form bunds to retain water
+South East,Rice (paddy),4,Apr,9,Sep,1.0,PLANTING,Transplanting,0,1,Apr,Apr,4,Transplant 3-week-old seedlings; 2–3 per hill; 20×20cm
+South East,Rice (paddy),4,Apr,9,Sep,1.0,EARLY_GROWTH,Flood management,1,3,Apr,Apr,4,Maintain 5cm flood depth; drain for weeding
+South East,Rice (paddy),4,Apr,9,Sep,1.0,EARLY_GROWTH,First weeding (drain and hand-weed),2,3,Apr,Apr,4,Drain field; weed; re-flood within 24hrs
+South East,Rice (paddy),4,Apr,9,Sep,1.0,VEGETATIVE,First fertilizer application (NPK),3,3,Apr,Apr,4,Apply before re-flooding; broadcast and flood
+South East,Rice (paddy),4,Apr,9,Sep,1.0,VEGETATIVE,Pest scouting — stem borer and BPH,4,10,May,Jun,5,Scout twice weekly; avoid broad-spectrum at tillering
+South East,Rice (paddy),4,Apr,9,Sep,1.0,VEGETATIVE,Second weeding or herbicide,5,6,May,May,5,Post-emergence herbicide or drain-and-hoe
+South East,Rice (paddy),4,Apr,9,Sep,1.0,REPRODUCTIVE,Second fertilizer — Urea at panicle,8,8,Jun,Jun,6,Panicle initiation top-dress; drain 3 days before
+South East,Rice (paddy),4,Apr,9,Sep,1.0,REPRODUCTIVE,Water management at flowering,9,11,Jun,Jun,6,Maintain 5cm flood; critical for pollination
+South East,Rice (paddy),4,Apr,9,Sep,1.0,PRE_HARVEST,Drain field and maturity check,13,14,Jul,Jul,7,Drain 2 weeks before harvest; check grain moisture
+South East,Rice (paddy),4,Apr,9,Sep,1.0,HARVEST,Harvesting and threshing,14,16,Jul,Aug,7,Harvest at <25% moisture; thresh within 24hrs
+South East,Rice (paddy),4,Apr,9,Sep,1.0,POST_HARVEST,Drying and milling preparation,16,18,Aug,Aug,8,Sun-dry to <14%; bag for milling or storage
+South East,Sorghum,3,Mar,8,Aug,1.0,PRE_PLANTING,Land clearing and tillage,-4,-3,Feb,Feb,2,Minimum tillage acceptable; remove previous stubble
+South East,Sorghum,3,Mar,8,Aug,1.0,PRE_PLANTING,Input procurement,-2,-1,Feb,Feb,2,"Procure certified seed, NPK fertilizer"
+South East,Sorghum,3,Mar,8,Aug,1.0,PLANTING,Sowing,0,0,Mar,Mar,3,Drill or spot sow; 75×20cm; thin to 1 plant at 2 WAP
+South East,Sorghum,3,Mar,8,Aug,1.0,EARLY_GROWTH,Thinning and gap filling,2,3,Mar,Mar,3,Thin to 1 seedling/hole; fill gaps with reserve seed
+South East,Sorghum,3,Mar,8,Aug,1.0,VEGETATIVE,"Pest scouting — shoot fly, aphids",2,10,Mar,May,3,Scout weekly; apply systemic insecticide at threshold
+South East,Sorghum,3,Mar,8,Aug,1.0,EARLY_GROWTH,First weeding,3,5,Mar,Apr,3,Critical period; weed before 4 WAP
+South East,Sorghum,3,Mar,8,Aug,1.0,VEGETATIVE,Fertilizer application,5,5,Apr,Apr,4,NPK at 5 WAP; side-dress; avoid waterlogging
+South East,Sorghum,3,Mar,8,Aug,1.0,VEGETATIVE,Second weeding,7,8,Apr,May,4,Before panicle initiation
+South East,Sorghum,3,Mar,8,Aug,1.0,REPRODUCTIVE,Bird scare implementation,14,18,Jun,Jul,6,Continuous bird-scaring from grain filling to harvest
+South East,Sorghum,3,Mar,8,Aug,1.0,REPRODUCTIVE,Mould monitoring,15,20,Jun,Aug,6,Check for grain mould in high-humidity zones
+South East,Sorghum,3,Mar,8,Aug,1.0,PRE_HARVEST,Maturity assessment,18,20,Jul,Aug,7,Panicle colour and grain hardness check
+South East,Sorghum,3,Mar,8,Aug,1.0,HARVEST,Harvesting,20,21,Aug,Aug,8,Cut panicles; head by head; avoid shattering
+South East,Sorghum,3,Mar,8,Aug,1.0,POST_HARVEST,Threshing and drying,21,22,Aug,Aug,8,Sun-dry to <12% moisture; bag in hermetic storage
+South East,Yam,2,Feb,9,Sep,1.0,PRE_PLANTING,Mound construction,-4,-3,Jan,Jan,1,Form 1×1m mounds 30–50cm high before rains; labour-intensive
+South East,Yam,2,Feb,9,Sep,1.0,PRE_PLANTING,Seed yam sett preparation,-3,-2,Jan,Jan,1,Cut setts 150–200g; dust with fungicide/ash; cure 7 days
+South East,Yam,2,Feb,9,Sep,1.0,PRE_PLANTING,Staking material procurement,-2,-1,Jan,Jan,1,"Procure 5,000 stakes/ha; pre-plant before sowing"
+South East,Yam,2,Feb,9,Sep,1.0,PLANTING,Planting seed yam setts,0,0,Feb,Feb,2,Plant on top of mound; 5cm depth; 1 sett/mound
+South East,Yam,2,Feb,9,Sep,1.0,EARLY_GROWTH,Staking young vines,3,4,Feb,Mar,2,Stake vines at 3–4 WAP to prevent lodging
+South East,Yam,2,Feb,9,Sep,1.0,EARLY_GROWTH,First weeding,3,5,Feb,Mar,2,Hand weed; avoid disturbing tuber zone
+South East,Yam,2,Feb,9,Sep,1.0,VEGETATIVE,First fertilizer application,6,6,Mar,Mar,3,NPK 15:15:15 at 6 WAP; side-dress around mound
+South East,Yam,2,Feb,9,Sep,1.0,VEGETATIVE,Pest scouting — yam mosaic virus,6,20,Mar,Jul,3,Scout weekly; rogue infected vines immediately
+South East,Yam,2,Feb,9,Sep,1.0,VEGETATIVE,Second weeding,8,10,Apr,Apr,4,Critical for tuber bulking; avoid root disturbance
+South East,Yam,2,Feb,9,Sep,1.0,VEGETATIVE,Second fertilizer application,10,10,Apr,Apr,4,Muriate of Potash for tuber quality
+South East,Yam,2,Feb,9,Sep,1.0,REPRODUCTIVE,Tuber monitoring,20,28,Jul,Sep,7,Observe vine senescence; partial harvest possible
+South East,Yam,2,Feb,9,Sep,1.0,PRE_HARVEST,Vine senescence assessment,26,28,Aug,Sep,8,80% vine dry-down indicates harvest readiness
+South East,Yam,2,Feb,9,Sep,1.0,HARVEST,Harvesting and destaking,28,30,Sep,Sep,9,Manual dig; avoid cuts; destake before lifting
+South East,Yam,2,Feb,9,Sep,1.0,POST_HARVEST,Barn storage or yam barn construction,30,32,Sep,Oct,9,Stack in shaded barn; inspect monthly for rot
+South South,Cassava,2,Feb,12,Dec,0.9,PRE_PLANTING,Land clearing and primary tillage,-4,-3,Jan,Jan,1,Remove stumps; plough to 30cm depth
+South South,Cassava,2,Feb,12,Dec,0.9,PRE_PLANTING,Stem cutting procurement and curing,-2,-1,Jan,Jan,1,Select disease-free cuttings 25cm long; cure 3–5 days
+South South,Cassava,2,Feb,12,Dec,0.9,PRE_PLANTING,Mound or ridge formation,-1,0,Jan,Feb,1,Form ridges 30cm high; spacing 1×1m
+South South,Cassava,2,Feb,12,Dec,0.9,PLANTING,Planting stem cuttings,0,0,Feb,Feb,2,"Plant at 45° angle, 2/3 buried; 10,000 cuttings/ha"
+South South,Cassava,2,Feb,12,Dec,0.9,EARLY_GROWTH,Gap filling,2,3,Feb,Feb,2,Replace failed cuttings before canopy closure
+South South,Cassava,2,Feb,12,Dec,0.9,EARLY_GROWTH,First weeding,4,6,Mar,Mar,3,Critical period: weed-free first 3 months
+South South,Cassava,2,Feb,12,Dec,0.9,VEGETATIVE,First fertilizer application,8,8,Apr,Apr,4,NPK 15:15:15 at 2 months; place 10cm from stem
+South South,Cassava,2,Feb,12,Dec,0.9,VEGETATIVE,Pest scouting — whitefly and CMD,8,20,Apr,Jul,4,Scout fortnightly; rogue CMV-infected plants
+South South,Cassava,2,Feb,12,Dec,0.9,VEGETATIVE,Second weeding,10,12,Apr,May,4,Before secondary canopy closure
+South South,Cassava,2,Feb,12,Dec,0.9,VEGETATIVE,Second fertilizer application,16,16,Jun,Jun,6,Potassium sulphate at 4 months for tuber bulking
+South South,Cassava,2,Feb,12,Dec,0.9,REPRODUCTIVE,Tuber bulking monitoring,24,36,Aug,Nov,8,Monitor canopy colour; yellowing = nutrient stress
+South South,Cassava,2,Feb,12,Dec,0.9,PRE_HARVEST,Maturity assessment,36,40,Nov,Dec,11,Check HCN content if bitter variety; test tuber size
+South South,Cassava,2,Feb,12,Dec,0.9,HARVEST,Harvesting,40,44,Dec,Jan,12,Mechanical or manual uprooting; avoid tuber damage
+South South,Cassava,2,Feb,12,Dec,0.9,POST_HARVEST,Processing or storage,44,48,Jan,Feb,1,Process within 24–48hrs (perishable); or wax-coat
+South South,Cassava,2,Feb,12,Dec,0.9,POST_HARVEST,Field ratoon or new land prep,44,52,Jan,Mar,1,For ratoon crop: cut stems to 50cm; fertilize
+South South,Cocoa beans,2,Feb,10,Oct,0.9,PRE_PLANTING,Nursery pod selection and seeding,-12,-8,Nov,Dec,11,Select pods from high-yielding trees; sow in poly bags
+South South,Cocoa beans,2,Feb,10,Oct,0.9,PRE_PLANTING,Shade tree establishment,-8,-4,Dec,Jan,12,Plant plantain or Gliricidia as temporary shade
+South South,Cocoa beans,2,Feb,10,Oct,0.9,PRE_PLANTING,Land preparation and pegging,-4,-2,Jan,Jan,1,Peg holes at 3×3m; apply basal fertilizer
+South South,Cocoa beans,2,Feb,10,Oct,0.9,PLANTING,Transplanting cocoa seedlings,0,0,Feb,Feb,2,Transplant 4–6 month seedlings; plant under shade
+South South,Cocoa beans,2,Feb,10,Oct,0.9,EARLY_GROWTH,Mulching and establishment care,1,8,Feb,Apr,2,Mulch basin; water if dry; control weeds by hand
+South South,Cocoa beans,2,Feb,10,Oct,0.9,VEGETATIVE,Shade management,8,16,Apr,Jun,4,Gradually reduce shade as canopy develops
+South South,Cocoa beans,2,Feb,10,Oct,0.9,VEGETATIVE,Fertilizer application,12,12,May,May,5,NPK at 12 months; apply in ring 30cm from stem
+South South,Cocoa beans,2,Feb,10,Oct,0.9,VEGETATIVE,Black pod disease scouting,12,32,May,Oct,5,Spray copper fungicide at 2-week intervals in wet season
+South South,Cocoa beans,2,Feb,10,Oct,0.9,VEGETATIVE,Pruning — jorquette formation,16,20,Jun,Jul,6,Shape jorquette; remove chupons and dead wood
+South South,Cocoa beans,2,Feb,10,Oct,0.9,REPRODUCTIVE,Flushing and flowering monitoring,24,32,Aug,Oct,8,Ensure good shade; remove mummified pods
+South South,Cocoa beans,2,Feb,10,Oct,0.9,REPRODUCTIVE,Cherelle wilt assessment,28,36,Sep,Nov,9,Normal to lose 80% of chereelles; do not panic
+South South,Cocoa beans,2,Feb,10,Oct,0.9,HARVEST,Pod breaking and bean extraction,36,44,Nov,Jan,11,Harvest yellow/orange pods; extract beans same day
+South South,Cocoa beans,2,Feb,10,Oct,0.9,POST_HARVEST,Fermentation,36,37,Nov,Nov,11,Ferment 5–6 days in boxes; turn daily from day 2
+South South,Cocoa beans,2,Feb,10,Oct,0.9,POST_HARVEST,Drying and grading,37,38,Nov,Nov,11,Sun-dry to 7.5% moisture; grade and bag 62.5kg
+South South,Maize,2,Feb,6,Jun,0.9,PRE_PLANTING,Land clearing and ploughing,-4,-3,Jan,Jan,1,Deep tillage 20–25cm; remove crop residues
+South South,Maize,2,Feb,6,Jun,0.9,PRE_PLANTING,Soil testing and input procurement,-3,-2,Jan,Jan,1,"Procure certified seed, NPK 15:15:15, herbicide"
+South South,Maize,2,Feb,6,Jun,0.9,PRE_PLANTING,Harrowing and ridging,-2,-1,Jan,Jan,1,Final seedbed preparation; form ridges or flat bed
+South South,Maize,2,Feb,6,Jun,0.9,PLANTING,Sowing,0,0,Feb,Feb,2,2–3 seeds/hole at 75×25cm spacing; thin to 1 plant
+South South,Maize,2,Feb,6,Jun,0.9,EARLY_GROWTH,Pre-emergence herbicide application,1,1,Feb,Feb,2,Apply within 3 days of planting on moist soil
+South South,Maize,2,Feb,6,Jun,0.9,EARLY_GROWTH,Gap filling,2,2,Feb,Feb,2,Replace failed stands; maintain plant population
+South South,Maize,2,Feb,6,Jun,0.9,EARLY_GROWTH,First weeding,3,4,Feb,Mar,2,Hand-hoe or post-emergence herbicide at 3 WAP
+South South,Maize,2,Feb,6,Jun,0.9,VEGETATIVE,First fertilizer application (NPK),4,4,Mar,Mar,3,Apply NPK 15:15:15 at 4 WAP; side-dress and cover
+South South,Maize,2,Feb,6,Jun,0.9,VEGETATIVE,Pest scouting — stem borer,5,8,Mar,Apr,3,Scout weekly; apply insecticide at threshold
+South South,Maize,2,Feb,6,Jun,0.9,VEGETATIVE,Second weeding,6,7,Mar,Mar,3,Before canopy closure; critical for yield protection
+South South,Maize,2,Feb,6,Jun,0.9,REPRODUCTIVE,Second fertilizer application (Urea),8,8,Apr,Apr,4,Urea top-dress at tasselling; do not fold into leaves
+South South,Maize,2,Feb,6,Jun,0.9,REPRODUCTIVE,Fall armyworm scouting,8,12,Apr,May,4,High-risk period; apply biopesticide if threshold met
+South South,Maize,2,Feb,6,Jun,0.9,REPRODUCTIVE,Pollination monitoring,9,10,Apr,Apr,4,Ensure good silk coverage; no pesticide during silking
+South South,Maize,2,Feb,6,Jun,0.9,PRE_HARVEST,Maturity assessment,14,15,May,May,5,Check husk colour and grain hardness; moisture <25%
+South South,Maize,2,Feb,6,Jun,0.9,HARVEST,Harvesting and field drying,15,16,May,Jun,5,Snap cobs; sun-dry to <13% moisture for storage
+South South,Maize,2,Feb,6,Jun,0.9,POST_HARVEST,Shelling and bagging,16,17,Jun,Jun,6,Shell when dry; use hermetic bags for storage
+South South,Maize,2,Feb,6,Jun,0.9,POST_HARVEST,Field cleanup and compost preparation,17,18,Jun,Jun,6,Incorporate stover; prepare compost pit for off-season
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,PRE_PLANTING,Pre-nursery preparation,-8,-6,Dec,Dec,12,Germinate seeds; transfer to pre-nursery at 3 months
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,PRE_PLANTING,Main nursery,-6,-1,Dec,Jan,12,Grow in main nursery 12 months; harden off before planting
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,PRE_PLANTING,Land clearing and holing,-2,-1,Jan,Jan,1,Clear undergrowth; dig 60×60×60cm holes; apply rock phos
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,PLANTING,Transplanting seedlings,0,0,Feb,Feb,2,Plant 18-month seedlings at 9×9m triangular; mulch basin
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,EARLY_GROWTH,Establishment weeding,2,4,Feb,Mar,2,Circle weed monthly for first 2 years
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,EARLY_GROWTH,Cover crop establishment,2,8,Feb,Apr,2,Sow Pueraria cover between palms to suppress weeds
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,VEGETATIVE,First year fertilizer,12,12,May,May,5,Muriate of Potash + Urea at 12 months per palm
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,VEGETATIVE,Frond management,16,20,Jun,Jul,6,Remove oldest fronds; do not over-prune
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,VEGETATIVE,Second year fertilizer,24,24,Aug,Aug,8,Full NPK per palm at year 2
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,REPRODUCTIVE,First bunch monitoring (yr 3+),36,52,Nov,Mar,11,Count bunches; thin excess in first bearing year
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,REPRODUCTIVE,Bunch harvest cycle begins,40,52,Dec,Mar,12,Harvest ripe bunches every 10–14 days
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,HARVEST,Ongoing bunch harvesting,40,52,Dec,Mar,12,Use harvesting chisel; harvest at black fruit threshold
+South South,Oil palm fruit,2,Feb,2,Feb,0.9,POST_HARVEST,FFB transport and processing,40,52,Dec,Mar,12,Transport within 24hrs to avoid FFA rise
+South South,Rice (paddy),3,Mar,8,Aug,0.9,PRE_PLANTING,Nursery bed preparation,-4,-4,Feb,Feb,2,Prepare raised nursery bed 1×10m per ha field
+South South,Rice (paddy),3,Mar,8,Aug,0.9,PRE_PLANTING,Seed soaking and pregermination,-3,-3,Feb,Feb,2,Soak 24hr; drain 24hr; sow at pin-point germination
+South South,Rice (paddy),3,Mar,8,Aug,0.9,PRE_PLANTING,Nursery seeding,-3,-2,Feb,Feb,2,Broadcast 40g/m² in nursery; flood to 2cm depth
+South South,Rice (paddy),3,Mar,8,Aug,0.9,PRE_PLANTING,Land puddling and bund construction,-2,-1,Feb,Feb,2,Puddle field; form bunds to retain water
+South South,Rice (paddy),3,Mar,8,Aug,0.9,PLANTING,Transplanting,0,1,Mar,Mar,3,Transplant 3-week-old seedlings; 2–3 per hill; 20×20cm
+South South,Rice (paddy),3,Mar,8,Aug,0.9,EARLY_GROWTH,Flood management,1,3,Mar,Mar,3,Maintain 5cm flood depth; drain for weeding
+South South,Rice (paddy),3,Mar,8,Aug,0.9,EARLY_GROWTH,First weeding (drain and hand-weed),2,3,Mar,Mar,3,Drain field; weed; re-flood within 24hrs
+South South,Rice (paddy),3,Mar,8,Aug,0.9,VEGETATIVE,First fertilizer application (NPK),3,3,Mar,Mar,3,Apply before re-flooding; broadcast and flood
+South South,Rice (paddy),3,Mar,8,Aug,0.9,VEGETATIVE,Pest scouting — stem borer and BPH,4,10,Apr,May,4,Scout twice weekly; avoid broad-spectrum at tillering
+South South,Rice (paddy),3,Mar,8,Aug,0.9,VEGETATIVE,Second weeding or herbicide,5,6,Apr,Apr,4,Post-emergence herbicide or drain-and-hoe
+South South,Rice (paddy),3,Mar,8,Aug,0.9,REPRODUCTIVE,Second fertilizer — Urea at panicle,8,8,May,May,5,Panicle initiation top-dress; drain 3 days before
+South South,Rice (paddy),3,Mar,8,Aug,0.9,REPRODUCTIVE,Water management at flowering,9,11,May,May,5,Maintain 5cm flood; critical for pollination
+South South,Rice (paddy),3,Mar,8,Aug,0.9,PRE_HARVEST,Drain field and maturity check,13,14,Jun,Jun,6,Drain 2 weeks before harvest; check grain moisture
+South South,Rice (paddy),3,Mar,8,Aug,0.9,HARVEST,Harvesting and threshing,14,16,Jun,Jul,6,Harvest at <25% moisture; thresh within 24hrs
+South South,Rice (paddy),3,Mar,8,Aug,0.9,POST_HARVEST,Drying and milling preparation,16,18,Jul,Jul,7,Sun-dry to <14%; bag for milling or storage
+South South,Sorghum,2,Feb,7,Jul,0.9,PRE_PLANTING,Land clearing and tillage,-4,-3,Jan,Jan,1,Minimum tillage acceptable; remove previous stubble
+South South,Sorghum,2,Feb,7,Jul,0.9,PRE_PLANTING,Input procurement,-2,-1,Jan,Jan,1,"Procure certified seed, NPK fertilizer"
+South South,Sorghum,2,Feb,7,Jul,0.9,PLANTING,Sowing,0,0,Feb,Feb,2,Drill or spot sow; 75×20cm; thin to 1 plant at 2 WAP
+South South,Sorghum,2,Feb,7,Jul,0.9,EARLY_GROWTH,Thinning and gap filling,2,3,Feb,Feb,2,Thin to 1 seedling/hole; fill gaps with reserve seed
+South South,Sorghum,2,Feb,7,Jul,0.9,VEGETATIVE,"Pest scouting — shoot fly, aphids",2,10,Feb,Apr,2,Scout weekly; apply systemic insecticide at threshold
+South South,Sorghum,2,Feb,7,Jul,0.9,EARLY_GROWTH,First weeding,3,5,Feb,Mar,2,Critical period; weed before 4 WAP
+South South,Sorghum,2,Feb,7,Jul,0.9,VEGETATIVE,Fertilizer application,5,5,Mar,Mar,3,NPK at 5 WAP; side-dress; avoid waterlogging
+South South,Sorghum,2,Feb,7,Jul,0.9,VEGETATIVE,Second weeding,7,8,Mar,Apr,3,Before panicle initiation
+South South,Sorghum,2,Feb,7,Jul,0.9,REPRODUCTIVE,Bird scare implementation,14,18,May,Jun,5,Continuous bird-scaring from grain filling to harvest
+South South,Sorghum,2,Feb,7,Jul,0.9,REPRODUCTIVE,Mould monitoring,15,20,May,Jul,5,Check for grain mould in high-humidity zones
+South South,Sorghum,2,Feb,7,Jul,0.9,PRE_HARVEST,Maturity assessment,18,20,Jun,Jul,6,Panicle colour and grain hardness check
+South South,Sorghum,2,Feb,7,Jul,0.9,HARVEST,Harvesting,20,21,Jul,Jul,7,Cut panicles; head by head; avoid shattering
+South South,Sorghum,2,Feb,7,Jul,0.9,POST_HARVEST,Threshing and drying,21,22,Jul,Jul,7,Sun-dry to <12% moisture; bag in hermetic storage
+South South,Yam,1,Jan,8,Aug,0.9,PRE_PLANTING,Mound construction,-4,-3,Dec,Dec,12,Form 1×1m mounds 30–50cm high before rains; labour-intensive
+South South,Yam,1,Jan,8,Aug,0.9,PRE_PLANTING,Seed yam sett preparation,-3,-2,Dec,Dec,12,Cut setts 150–200g; dust with fungicide/ash; cure 7 days
+South South,Yam,1,Jan,8,Aug,0.9,PRE_PLANTING,Staking material procurement,-2,-1,Dec,Dec,12,"Procure 5,000 stakes/ha; pre-plant before sowing"
+South South,Yam,1,Jan,8,Aug,0.9,PLANTING,Planting seed yam setts,0,0,Jan,Jan,1,Plant on top of mound; 5cm depth; 1 sett/mound
+South South,Yam,1,Jan,8,Aug,0.9,EARLY_GROWTH,Staking young vines,3,4,Jan,Feb,1,Stake vines at 3–4 WAP to prevent lodging
+South South,Yam,1,Jan,8,Aug,0.9,EARLY_GROWTH,First weeding,3,5,Jan,Feb,1,Hand weed; avoid disturbing tuber zone
+South South,Yam,1,Jan,8,Aug,0.9,VEGETATIVE,First fertilizer application,6,6,Feb,Feb,2,NPK 15:15:15 at 6 WAP; side-dress around mound
+South South,Yam,1,Jan,8,Aug,0.9,VEGETATIVE,Pest scouting — yam mosaic virus,6,20,Feb,Jun,2,Scout weekly; rogue infected vines immediately
+South South,Yam,1,Jan,8,Aug,0.9,VEGETATIVE,Second weeding,8,10,Mar,Mar,3,Critical for tuber bulking; avoid root disturbance
+South South,Yam,1,Jan,8,Aug,0.9,VEGETATIVE,Second fertilizer application,10,10,Mar,Mar,3,Muriate of Potash for tuber quality
+South South,Yam,1,Jan,8,Aug,0.9,REPRODUCTIVE,Tuber monitoring,20,28,Jun,Aug,6,Observe vine senescence; partial harvest possible
+South South,Yam,1,Jan,8,Aug,0.9,PRE_HARVEST,Vine senescence assessment,26,28,Jul,Aug,7,80% vine dry-down indicates harvest readiness
+South South,Yam,1,Jan,8,Aug,0.9,HARVEST,Harvesting and destaking,28,30,Aug,Aug,8,Manual dig; avoid cuts; destake before lifting
+South South,Yam,1,Jan,8,Aug,0.9,POST_HARVEST,Barn storage or yam barn construction,30,32,Aug,Sep,8,Stack in shaded barn; inspect monthly for rot
+South West,Cassava,3,Mar,1,Jan,0.872,PRE_PLANTING,Land clearing and primary tillage,-4,-3,Feb,Feb,2,Remove stumps; plough to 30cm depth
+South West,Cassava,3,Mar,1,Jan,0.872,PRE_PLANTING,Stem cutting procurement and curing,-2,-1,Feb,Feb,2,Select disease-free cuttings 25cm long; cure 3–5 days
+South West,Cassava,3,Mar,1,Jan,0.872,PRE_PLANTING,Mound or ridge formation,-1,0,Feb,Mar,2,Form ridges 30cm high; spacing 1×1m
+South West,Cassava,3,Mar,1,Jan,0.872,PLANTING,Planting stem cuttings,0,0,Mar,Mar,3,"Plant at 45° angle, 2/3 buried; 10,000 cuttings/ha"
+South West,Cassava,3,Mar,1,Jan,0.872,EARLY_GROWTH,Gap filling,2,3,Mar,Mar,3,Replace failed cuttings before canopy closure
+South West,Cassava,3,Mar,1,Jan,0.872,EARLY_GROWTH,First weeding,4,6,Apr,Apr,4,Critical period: weed-free first 3 months
+South West,Cassava,3,Mar,1,Jan,0.872,VEGETATIVE,First fertilizer application,8,8,May,May,5,NPK 15:15:15 at 2 months; place 10cm from stem
+South West,Cassava,3,Mar,1,Jan,0.872,VEGETATIVE,Pest scouting — whitefly and CMD,8,20,May,Aug,5,Scout fortnightly; rogue CMV-infected plants
+South West,Cassava,3,Mar,1,Jan,0.872,VEGETATIVE,Second weeding,10,12,May,Jun,5,Before secondary canopy closure
+South West,Cassava,3,Mar,1,Jan,0.872,VEGETATIVE,Second fertilizer application,16,16,Jul,Jul,7,Potassium sulphate at 4 months for tuber bulking
+South West,Cassava,3,Mar,1,Jan,0.872,REPRODUCTIVE,Tuber bulking monitoring,24,36,Sep,Dec,9,Monitor canopy colour; yellowing = nutrient stress
+South West,Cassava,3,Mar,1,Jan,0.872,PRE_HARVEST,Maturity assessment,36,40,Dec,Jan,12,Check HCN content if bitter variety; test tuber size
+South West,Cassava,3,Mar,1,Jan,0.872,HARVEST,Harvesting,40,44,Jan,Feb,1,Mechanical or manual uprooting; avoid tuber damage
+South West,Cassava,3,Mar,1,Jan,0.872,POST_HARVEST,Processing or storage,44,48,Feb,Mar,2,Process within 24–48hrs (perishable); or wax-coat
+South West,Cassava,3,Mar,1,Jan,0.872,POST_HARVEST,Field ratoon or new land prep,44,52,Feb,Apr,2,For ratoon crop: cut stems to 50cm; fertilize
+South West,Cocoa beans,3,Mar,11,Nov,0.872,PRE_PLANTING,Nursery pod selection and seeding,-12,-8,Dec,Jan,12,Select pods from high-yielding trees; sow in poly bags
+South West,Cocoa beans,3,Mar,11,Nov,0.872,PRE_PLANTING,Shade tree establishment,-8,-4,Jan,Feb,1,Plant plantain or Gliricidia as temporary shade
+South West,Cocoa beans,3,Mar,11,Nov,0.872,PRE_PLANTING,Land preparation and pegging,-4,-2,Feb,Feb,2,Peg holes at 3×3m; apply basal fertilizer
+South West,Cocoa beans,3,Mar,11,Nov,0.872,PLANTING,Transplanting cocoa seedlings,0,0,Mar,Mar,3,Transplant 4–6 month seedlings; plant under shade
+South West,Cocoa beans,3,Mar,11,Nov,0.872,EARLY_GROWTH,Mulching and establishment care,1,8,Mar,May,3,Mulch basin; water if dry; control weeds by hand
+South West,Cocoa beans,3,Mar,11,Nov,0.872,VEGETATIVE,Shade management,8,16,May,Jul,5,Gradually reduce shade as canopy develops
+South West,Cocoa beans,3,Mar,11,Nov,0.872,VEGETATIVE,Fertilizer application,12,12,Jun,Jun,6,NPK at 12 months; apply in ring 30cm from stem
+South West,Cocoa beans,3,Mar,11,Nov,0.872,VEGETATIVE,Black pod disease scouting,12,32,Jun,Nov,6,Spray copper fungicide at 2-week intervals in wet season
+South West,Cocoa beans,3,Mar,11,Nov,0.872,VEGETATIVE,Pruning — jorquette formation,16,20,Jul,Aug,7,Shape jorquette; remove chupons and dead wood
+South West,Cocoa beans,3,Mar,11,Nov,0.872,REPRODUCTIVE,Flushing and flowering monitoring,24,32,Sep,Nov,9,Ensure good shade; remove mummified pods
+South West,Cocoa beans,3,Mar,11,Nov,0.872,REPRODUCTIVE,Cherelle wilt assessment,28,36,Oct,Dec,10,Normal to lose 80% of chereelles; do not panic
+South West,Cocoa beans,3,Mar,11,Nov,0.872,HARVEST,Pod breaking and bean extraction,36,44,Dec,Feb,12,Harvest yellow/orange pods; extract beans same day
+South West,Cocoa beans,3,Mar,11,Nov,0.872,POST_HARVEST,Fermentation,36,37,Dec,Dec,12,Ferment 5–6 days in boxes; turn daily from day 2
+South West,Cocoa beans,3,Mar,11,Nov,0.872,POST_HARVEST,Drying and grading,37,38,Dec,Dec,12,Sun-dry to 7.5% moisture; grade and bag 62.5kg
+South West,Maize,3,Mar,7,Jul,0.872,PRE_PLANTING,Land clearing and ploughing,-4,-3,Feb,Feb,2,Deep tillage 20–25cm; remove crop residues
+South West,Maize,3,Mar,7,Jul,0.872,PRE_PLANTING,Soil testing and input procurement,-3,-2,Feb,Feb,2,"Procure certified seed, NPK 15:15:15, herbicide"
+South West,Maize,3,Mar,7,Jul,0.872,PRE_PLANTING,Harrowing and ridging,-2,-1,Feb,Feb,2,Final seedbed preparation; form ridges or flat bed
+South West,Maize,3,Mar,7,Jul,0.872,PLANTING,Sowing,0,0,Mar,Mar,3,2–3 seeds/hole at 75×25cm spacing; thin to 1 plant
+South West,Maize,3,Mar,7,Jul,0.872,EARLY_GROWTH,Pre-emergence herbicide application,1,1,Mar,Mar,3,Apply within 3 days of planting on moist soil
+South West,Maize,3,Mar,7,Jul,0.872,EARLY_GROWTH,Gap filling,2,2,Mar,Mar,3,Replace failed stands; maintain plant population
+South West,Maize,3,Mar,7,Jul,0.872,EARLY_GROWTH,First weeding,3,4,Mar,Apr,3,Hand-hoe or post-emergence herbicide at 3 WAP
+South West,Maize,3,Mar,7,Jul,0.872,VEGETATIVE,First fertilizer application (NPK),4,4,Apr,Apr,4,Apply NPK 15:15:15 at 4 WAP; side-dress and cover
+South West,Maize,3,Mar,7,Jul,0.872,VEGETATIVE,Pest scouting — stem borer,5,8,Apr,May,4,Scout weekly; apply insecticide at threshold
+South West,Maize,3,Mar,7,Jul,0.872,VEGETATIVE,Second weeding,6,7,Apr,Apr,4,Before canopy closure; critical for yield protection
+South West,Maize,3,Mar,7,Jul,0.872,REPRODUCTIVE,Second fertilizer application (Urea),8,8,May,May,5,Urea top-dress at tasselling; do not fold into leaves
+South West,Maize,3,Mar,7,Jul,0.872,REPRODUCTIVE,Fall armyworm scouting,8,12,May,Jun,5,High-risk period; apply biopesticide if threshold met
+South West,Maize,3,Mar,7,Jul,0.872,REPRODUCTIVE,Pollination monitoring,9,10,May,May,5,Ensure good silk coverage; no pesticide during silking
+South West,Maize,3,Mar,7,Jul,0.872,PRE_HARVEST,Maturity assessment,14,15,Jun,Jun,6,Check husk colour and grain hardness; moisture <25%
+South West,Maize,3,Mar,7,Jul,0.872,HARVEST,Harvesting and field drying,15,16,Jun,Jul,6,Snap cobs; sun-dry to <13% moisture for storage
+South West,Maize,3,Mar,7,Jul,0.872,POST_HARVEST,Shelling and bagging,16,17,Jul,Jul,7,Shell when dry; use hermetic bags for storage
+South West,Maize,3,Mar,7,Jul,0.872,POST_HARVEST,Field cleanup and compost preparation,17,18,Jul,Jul,7,Incorporate stover; prepare compost pit for off-season
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,PRE_PLANTING,Pre-nursery preparation,-8,-6,Jan,Jan,1,Germinate seeds; transfer to pre-nursery at 3 months
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,PRE_PLANTING,Main nursery,-6,-1,Jan,Feb,1,Grow in main nursery 12 months; harden off before planting
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,PRE_PLANTING,Land clearing and holing,-2,-1,Feb,Feb,2,Clear undergrowth; dig 60×60×60cm holes; apply rock phos
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,PLANTING,Transplanting seedlings,0,0,Mar,Mar,3,Plant 18-month seedlings at 9×9m triangular; mulch basin
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,EARLY_GROWTH,Establishment weeding,2,4,Mar,Apr,3,Circle weed monthly for first 2 years
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,EARLY_GROWTH,Cover crop establishment,2,8,Mar,May,3,Sow Pueraria cover between palms to suppress weeds
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,VEGETATIVE,First year fertilizer,12,12,Jun,Jun,6,Muriate of Potash + Urea at 12 months per palm
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,VEGETATIVE,Frond management,16,20,Jul,Aug,7,Remove oldest fronds; do not over-prune
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,VEGETATIVE,Second year fertilizer,24,24,Sep,Sep,9,Full NPK per palm at year 2
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,REPRODUCTIVE,First bunch monitoring (yr 3+),36,52,Dec,Apr,12,Count bunches; thin excess in first bearing year
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,REPRODUCTIVE,Bunch harvest cycle begins,40,52,Jan,Apr,1,Harvest ripe bunches every 10–14 days
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,HARVEST,Ongoing bunch harvesting,40,52,Jan,Apr,1,Use harvesting chisel; harvest at black fruit threshold
+South West,Oil palm fruit,3,Mar,3,Mar,0.872,POST_HARVEST,FFB transport and processing,40,52,Jan,Apr,1,Transport within 24hrs to avoid FFA rise
+South West,Rice (paddy),4,Apr,9,Sep,0.872,PRE_PLANTING,Nursery bed preparation,-4,-4,Mar,Mar,3,Prepare raised nursery bed 1×10m per ha field
+South West,Rice (paddy),4,Apr,9,Sep,0.872,PRE_PLANTING,Seed soaking and pregermination,-3,-3,Mar,Mar,3,Soak 24hr; drain 24hr; sow at pin-point germination
+South West,Rice (paddy),4,Apr,9,Sep,0.872,PRE_PLANTING,Nursery seeding,-3,-2,Mar,Mar,3,Broadcast 40g/m² in nursery; flood to 2cm depth
+South West,Rice (paddy),4,Apr,9,Sep,0.872,PRE_PLANTING,Land puddling and bund construction,-2,-1,Mar,Mar,3,Puddle field; form bunds to retain water
+South West,Rice (paddy),4,Apr,9,Sep,0.872,PLANTING,Transplanting,0,1,Apr,Apr,4,Transplant 3-week-old seedlings; 2–3 per hill; 20×20cm
+South West,Rice (paddy),4,Apr,9,Sep,0.872,EARLY_GROWTH,Flood management,1,3,Apr,Apr,4,Maintain 5cm flood depth; drain for weeding
+South West,Rice (paddy),4,Apr,9,Sep,0.872,EARLY_GROWTH,First weeding (drain and hand-weed),2,3,Apr,Apr,4,Drain field; weed; re-flood within 24hrs
+South West,Rice (paddy),4,Apr,9,Sep,0.872,VEGETATIVE,First fertilizer application (NPK),3,3,Apr,Apr,4,Apply before re-flooding; broadcast and flood
+South West,Rice (paddy),4,Apr,9,Sep,0.872,VEGETATIVE,Pest scouting — stem borer and BPH,4,10,May,Jun,5,Scout twice weekly; avoid broad-spectrum at tillering
+South West,Rice (paddy),4,Apr,9,Sep,0.872,VEGETATIVE,Second weeding or herbicide,5,6,May,May,5,Post-emergence herbicide or drain-and-hoe
+South West,Rice (paddy),4,Apr,9,Sep,0.872,REPRODUCTIVE,Second fertilizer — Urea at panicle,8,8,Jun,Jun,6,Panicle initiation top-dress; drain 3 days before
+South West,Rice (paddy),4,Apr,9,Sep,0.872,REPRODUCTIVE,Water management at flowering,9,11,Jun,Jun,6,Maintain 5cm flood; critical for pollination
+South West,Rice (paddy),4,Apr,9,Sep,0.872,PRE_HARVEST,Drain field and maturity check,13,14,Jul,Jul,7,Drain 2 weeks before harvest; check grain moisture
+South West,Rice (paddy),4,Apr,9,Sep,0.872,HARVEST,Harvesting and threshing,14,16,Jul,Aug,7,Harvest at <25% moisture; thresh within 24hrs
+South West,Rice (paddy),4,Apr,9,Sep,0.872,POST_HARVEST,Drying and milling preparation,16,18,Aug,Aug,8,Sun-dry to <14%; bag for milling or storage
+South West,Sorghum,3,Mar,8,Aug,0.872,PRE_PLANTING,Land clearing and tillage,-4,-3,Feb,Feb,2,Minimum tillage acceptable; remove previous stubble
+South West,Sorghum,3,Mar,8,Aug,0.872,PRE_PLANTING,Input procurement,-2,-1,Feb,Feb,2,"Procure certified seed, NPK fertilizer"
+South West,Sorghum,3,Mar,8,Aug,0.872,PLANTING,Sowing,0,0,Mar,Mar,3,Drill or spot sow; 75×20cm; thin to 1 plant at 2 WAP
+South West,Sorghum,3,Mar,8,Aug,0.872,EARLY_GROWTH,Thinning and gap filling,2,3,Mar,Mar,3,Thin to 1 seedling/hole; fill gaps with reserve seed
+South West,Sorghum,3,Mar,8,Aug,0.872,VEGETATIVE,"Pest scouting — shoot fly, aphids",2,10,Mar,May,3,Scout weekly; apply systemic insecticide at threshold
+South West,Sorghum,3,Mar,8,Aug,0.872,EARLY_GROWTH,First weeding,3,5,Mar,Apr,3,Critical period; weed before 4 WAP
+South West,Sorghum,3,Mar,8,Aug,0.872,VEGETATIVE,Fertilizer application,5,5,Apr,Apr,4,NPK at 5 WAP; side-dress; avoid waterlogging
+South West,Sorghum,3,Mar,8,Aug,0.872,VEGETATIVE,Second weeding,7,8,Apr,May,4,Before panicle initiation
+South West,Sorghum,3,Mar,8,Aug,0.872,REPRODUCTIVE,Bird scare implementation,14,18,Jun,Jul,6,Continuous bird-scaring from grain filling to harvest
+South West,Sorghum,3,Mar,8,Aug,0.872,REPRODUCTIVE,Mould monitoring,15,20,Jun,Aug,6,Check for grain mould in high-humidity zones
+South West,Sorghum,3,Mar,8,Aug,0.872,PRE_HARVEST,Maturity assessment,18,20,Jul,Aug,7,Panicle colour and grain hardness check
+South West,Sorghum,3,Mar,8,Aug,0.872,HARVEST,Harvesting,20,21,Aug,Aug,8,Cut panicles; head by head; avoid shattering
+South West,Sorghum,3,Mar,8,Aug,0.872,POST_HARVEST,Threshing and drying,21,22,Aug,Aug,8,Sun-dry to <12% moisture; bag in hermetic storage
+South West,Yam,2,Feb,9,Sep,0.872,PRE_PLANTING,Mound construction,-4,-3,Jan,Jan,1,Form 1×1m mounds 30–50cm high before rains; labour-intensive
+South West,Yam,2,Feb,9,Sep,0.872,PRE_PLANTING,Seed yam sett preparation,-3,-2,Jan,Jan,1,Cut setts 150–200g; dust with fungicide/ash; cure 7 days
+South West,Yam,2,Feb,9,Sep,0.872,PRE_PLANTING,Staking material procurement,-2,-1,Jan,Jan,1,"Procure 5,000 stakes/ha; pre-plant before sowing"
+South West,Yam,2,Feb,9,Sep,0.872,PLANTING,Planting seed yam setts,0,0,Feb,Feb,2,Plant on top of mound; 5cm depth; 1 sett/mound
+South West,Yam,2,Feb,9,Sep,0.872,EARLY_GROWTH,Staking young vines,3,4,Feb,Mar,2,Stake vines at 3–4 WAP to prevent lodging
+South West,Yam,2,Feb,9,Sep,0.872,EARLY_GROWTH,First weeding,3,5,Feb,Mar,2,Hand weed; avoid disturbing tuber zone
+South West,Yam,2,Feb,9,Sep,0.872,VEGETATIVE,First fertilizer application,6,6,Mar,Mar,3,NPK 15:15:15 at 6 WAP; side-dress around mound
+South West,Yam,2,Feb,9,Sep,0.872,VEGETATIVE,Pest scouting — yam mosaic virus,6,20,Mar,Jul,3,Scout weekly; rogue infected vines immediately
+South West,Yam,2,Feb,9,Sep,0.872,VEGETATIVE,Second weeding,8,10,Apr,Apr,4,Critical for tuber bulking; avoid root disturbance
+South West,Yam,2,Feb,9,Sep,0.872,VEGETATIVE,Second fertilizer application,10,10,Apr,Apr,4,Muriate of Potash for tuber quality
+South West,Yam,2,Feb,9,Sep,0.872,REPRODUCTIVE,Tuber monitoring,20,28,Jul,Sep,7,Observe vine senescence; partial harvest possible
+South West,Yam,2,Feb,9,Sep,0.872,PRE_HARVEST,Vine senescence assessment,26,28,Aug,Sep,8,80% vine dry-down indicates harvest readiness
+South West,Yam,2,Feb,9,Sep,0.872,HARVEST,Harvesting and destaking,28,30,Sep,Sep,9,Manual dig; avoid cuts; destake before lifting
+South West,Yam,2,Feb,9,Sep,0.872,POST_HARVEST,Barn storage or yam barn construction,30,32,Sep,Oct,9,Stack in shaded barn; inspect monthly for rot

@@ -1,0 +1,43 @@
+zone,crop,avg_onset_month,onset_std_dev,planting_month,planting_month_name,harvest_month,harvest_month_name,growing_duration_months,is_perennial,rainfall_reliability_score,planting_notes
+North Central,Cassava,4.1,0.34,4,Apr,2,Feb,10,False,0.917,Plant at onset; harvest at 9-12 months
+North Central,Cocoa beans,4.1,0.34,4,Apr,12,Dec,8,True,0.917,Perennial; rains trigger pod development; main crop shown
+North Central,Maize,4.1,0.34,4,Apr,8,Aug,4,False,0.917,Short-season variety; plant at first rains
+North Central,Oil palm fruit,4.1,0.34,4,Apr,4,Apr,12,True,0.917,Perennial; rains trigger fruit set; primary harvest window shown
+North Central,Rice (paddy),4.1,0.34,5,May,10,Oct,5,False,0.917,Plant 4-6 weeks after rains establish; needs standing water
+North Central,Sorghum,4.1,0.34,4,Apr,9,Sep,5,False,0.917,Drought-tolerant; plant at onset; can extend into dry season
+North Central,Yam,4.1,0.34,3,Mar,10,Oct,7,False,0.917,Pre-onset planting for tuber set; needs dry-to-wet transition
+North East,Cassava,6.8,0.38,7,Jul,5,May,10,False,0.944,Plant at onset; harvest at 9-12 months
+North East,Cocoa beans,6.8,0.38,7,Jul,3,Mar,8,True,0.944,Perennial; rains trigger pod development; main crop shown
+North East,Maize,6.8,0.38,7,Jul,11,Nov,4,False,0.944,Short-season variety; plant at first rains
+North East,Oil palm fruit,6.8,0.38,7,Jul,7,Jul,12,True,0.944,Perennial; rains trigger fruit set; primary harvest window shown
+North East,Rice (paddy),6.8,0.38,8,Aug,1,Jan,5,False,0.944,Plant 4-6 weeks after rains establish; needs standing water
+North East,Sorghum,6.8,0.38,7,Jul,12,Dec,5,False,0.944,Drought-tolerant; plant at onset; can extend into dry season
+North East,Yam,6.8,0.38,6,Jun,1,Jan,7,False,0.944,Pre-onset planting for tuber set; needs dry-to-wet transition
+North West,Cassava,6.0,0.0,6,Jun,4,Apr,10,False,1.0,Plant at onset; harvest at 9-12 months
+North West,Cocoa beans,6.0,0.0,6,Jun,2,Feb,8,True,1.0,Perennial; rains trigger pod development; main crop shown
+North West,Maize,6.0,0.0,6,Jun,10,Oct,4,False,1.0,Short-season variety; plant at first rains
+North West,Oil palm fruit,6.0,0.0,6,Jun,6,Jun,12,True,1.0,Perennial; rains trigger fruit set; primary harvest window shown
+North West,Rice (paddy),6.0,0.0,7,Jul,12,Dec,5,False,1.0,Plant 4-6 weeks after rains establish; needs standing water
+North West,Sorghum,6.0,0.0,6,Jun,11,Nov,5,False,1.0,Drought-tolerant; plant at onset; can extend into dry season
+North West,Yam,6.0,0.0,5,May,12,Dec,7,False,1.0,Pre-onset planting for tuber set; needs dry-to-wet transition
+South East,Cassava,3.0,0.0,3,Mar,1,Jan,10,False,1.0,Plant at onset; harvest at 9-12 months
+South East,Cocoa beans,3.0,0.0,3,Mar,11,Nov,8,True,1.0,Perennial; rains trigger pod development; main crop shown
+South East,Maize,3.0,0.0,3,Mar,7,Jul,4,False,1.0,Short-season variety; plant at first rains
+South East,Oil palm fruit,3.0,0.0,3,Mar,3,Mar,12,True,1.0,Perennial; rains trigger fruit set; primary harvest window shown
+South East,Rice (paddy),3.0,0.0,4,Apr,9,Sep,5,False,1.0,Plant 4-6 weeks after rains establish; needs standing water
+South East,Sorghum,3.0,0.0,3,Mar,8,Aug,5,False,1.0,Drought-tolerant; plant at onset; can extend into dry season
+South East,Yam,3.0,0.0,2,Feb,9,Sep,7,False,1.0,Pre-onset planting for tuber set; needs dry-to-wet transition
+South South,Cassava,2.0,0.2,2,Feb,12,Dec,10,False,0.9,Plant at onset; harvest at 9-12 months
+South South,Cocoa beans,2.0,0.2,2,Feb,10,Oct,8,True,0.9,Perennial; rains trigger pod development; main crop shown
+South South,Maize,2.0,0.2,2,Feb,6,Jun,4,False,0.9,Short-season variety; plant at first rains
+South South,Oil palm fruit,2.0,0.2,2,Feb,2,Feb,12,True,0.9,Perennial; rains trigger fruit set; primary harvest window shown
+South South,Rice (paddy),2.0,0.2,3,Mar,8,Aug,5,False,0.9,Plant 4-6 weeks after rains establish; needs standing water
+South South,Sorghum,2.0,0.2,2,Feb,7,Jul,5,False,0.9,Drought-tolerant; plant at onset; can extend into dry season
+South South,Yam,2.0,0.2,1,Jan,8,Aug,7,False,0.9,Pre-onset planting for tuber set; needs dry-to-wet transition
+South West,Cassava,3.2,0.41,3,Mar,1,Jan,10,False,0.872,Plant at onset; harvest at 9-12 months
+South West,Cocoa beans,3.2,0.41,3,Mar,11,Nov,8,True,0.872,Perennial; rains trigger pod development; main crop shown
+South West,Maize,3.2,0.41,3,Mar,7,Jul,4,False,0.872,Short-season variety; plant at first rains
+South West,Oil palm fruit,3.2,0.41,3,Mar,3,Mar,12,True,0.872,Perennial; rains trigger fruit set; primary harvest window shown
+South West,Rice (paddy),3.2,0.41,4,Apr,9,Sep,5,False,0.872,Plant 4-6 weeks after rains establish; needs standing water
+South West,Sorghum,3.2,0.41,3,Mar,8,Aug,5,False,0.872,Drought-tolerant; plant at onset; can extend into dry season
+South West,Yam,3.2,0.41,2,Feb,9,Sep,7,False,0.872,Pre-onset planting for tuber set; needs dry-to-wet transition

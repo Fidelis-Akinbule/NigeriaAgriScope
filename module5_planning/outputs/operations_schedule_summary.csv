@@ -1,0 +1,43 @@
+zone,crop,planting_month,first_fertilizer_month,first_harvest_month,harvest_month,total_schedule_activities,reliability_score
+North Central,Cassava,Apr,Jun,Feb,Feb,15,0.917
+North Central,Cocoa beans,Apr,Jul,Jan,Dec,14,0.917
+North Central,Maize,Apr,May,Jul,Aug,17,0.917
+North Central,Oil palm fruit,Apr,Jul,Feb,Apr,13,0.917
+North Central,Rice (paddy),May,May,Aug,Oct,15,0.917
+North Central,Sorghum,Apr,May,Sep,Sep,13,0.917
+North Central,Yam,Mar,Apr,Oct,Oct,14,0.917
+North East,Cassava,Jul,Sep,May,May,15,0.944
+North East,Cocoa beans,Jul,Oct,Apr,Mar,14,0.944
+North East,Maize,Jul,Aug,Oct,Nov,17,0.944
+North East,Oil palm fruit,Jul,Oct,May,Jul,13,0.944
+North East,Rice (paddy),Aug,Aug,Nov,Jan,15,0.944
+North East,Sorghum,Jul,Aug,Dec,Dec,13,0.944
+North East,Yam,Jun,Jul,Jan,Jan,14,0.944
+North West,Cassava,Jun,Aug,Apr,Apr,15,1.0
+North West,Cocoa beans,Jun,Sep,Mar,Feb,14,1.0
+North West,Maize,Jun,Jul,Sep,Oct,17,1.0
+North West,Oil palm fruit,Jun,Sep,Apr,Jun,13,1.0
+North West,Rice (paddy),Jul,Jul,Oct,Dec,15,1.0
+North West,Sorghum,Jun,Jul,Nov,Nov,13,1.0
+North West,Yam,May,Jun,Dec,Dec,14,1.0
+South East,Cassava,Mar,May,Jan,Jan,15,1.0
+South East,Cocoa beans,Mar,Jun,Dec,Nov,14,1.0
+South East,Maize,Mar,Apr,Jun,Jul,17,1.0
+South East,Oil palm fruit,Mar,Jun,Jan,Mar,13,1.0
+South East,Rice (paddy),Apr,Apr,Jul,Sep,15,1.0
+South East,Sorghum,Mar,Apr,Aug,Aug,13,1.0
+South East,Yam,Feb,Mar,Sep,Sep,14,1.0
+South South,Cassava,Feb,Apr,Dec,Dec,15,0.9
+South South,Cocoa beans,Feb,May,Nov,Oct,14,0.9
+South South,Maize,Feb,Mar,May,Jun,17,0.9
+South South,Oil palm fruit,Feb,May,Dec,Feb,13,0.9
+South South,Rice (paddy),Mar,Mar,Jun,Aug,15,0.9
+South South,Sorghum,Feb,Mar,Jul,Jul,13,0.9
+South South,Yam,Jan,Feb,Aug,Aug,14,0.9
+South West,Cassava,Mar,May,Jan,Jan,15,0.872
+South West,Cocoa beans,Mar,Jun,Dec,Nov,14,0.872
+South West,Maize,Mar,Apr,Jun,Jul,17,0.872
+South West,Oil palm fruit,Mar,Jun,Jan,Mar,13,0.872
+South West,Rice (paddy),Apr,Apr,Jul,Sep,15,0.872
+South West,Sorghum,Mar,Apr,Aug,Aug,13,0.872
+South West,Yam,Feb,Mar,Sep,Sep,14,0.872
