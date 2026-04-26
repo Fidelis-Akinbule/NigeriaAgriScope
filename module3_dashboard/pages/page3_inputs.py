@@ -15,6 +15,8 @@ Layout:
   fertilizer_total_kg   = broadcast per year    ← NEVER sum across rows
 """
 
+st.set_page_config(page_title="Input Planner", page_icon="🌱")
+
 from __future__ import annotations
 
 import numpy as np

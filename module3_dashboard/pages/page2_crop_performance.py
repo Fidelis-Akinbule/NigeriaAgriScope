@@ -12,6 +12,8 @@ Layout:
   ROW 5: Benchmark methodology expander
 """
 
+st.set_page_config(page_title="Yield Analysis", page_icon="📈")
+
 from __future__ import annotations
 
 import pandas as pd
