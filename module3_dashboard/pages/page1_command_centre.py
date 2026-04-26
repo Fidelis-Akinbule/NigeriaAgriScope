@@ -12,9 +12,11 @@ Layout:
   ROW 4: Colour-coded zone-crop performance table
 """
 
-st.set_page_config(page_title="National Overview", page_icon="🏠")
-
 from __future__ import annotations
+
+import streamlit as st
+
+st.set_page_config(page_title="National Overview", page_icon="🏠")
 
 import pandas as pd
 import plotly.express as px

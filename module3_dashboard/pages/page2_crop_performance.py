@@ -12,9 +12,11 @@ Layout:
   ROW 5: Benchmark methodology expander
 """
 
-st.set_page_config(page_title="Yield Analysis", page_icon="📈")
-
 from __future__ import annotations
+
+import streamlit as st
+
+st.set_page_config(page_title="Yield Analysis", page_icon="📈")
 
 import pandas as pd
 import plotly.express as px

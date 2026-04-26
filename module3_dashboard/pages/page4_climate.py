@@ -14,9 +14,11 @@ Technical note: numpy.polyfit only — statsmodels NOT used (Streamlit Cloud
 install issues). All trend lines built from np.polyfit.
 """
 
-st.set_page_config(page_title="Climate & Forecasts", page_icon="🌦")
-
 from __future__ import annotations
+
+import streamlit as st
+
+st.set_page_config(page_title="Climate & Forecasts", page_icon="🌦")
 
 import numpy as np
 import pandas as pd
