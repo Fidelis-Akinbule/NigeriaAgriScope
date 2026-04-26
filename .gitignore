@@ -35,3 +35,8 @@ venv/
 !module4_models/yield_model.pkl
 !module4_models/outputs/
 !module5_planning/outputs/
+
+# NigeriaAgriScope deployment rules
+
+# Force-include cloud fallback files
+!module4_models/outputs/yield_model.pkl
