@@ -1,6 +1,6 @@
 # NigeriaAgriScope 🌾
 
-**[Live Dashboard →](https://nigeriaagriscope.streamlit.app)** &nbsp;|&nbsp; Nigeria's first open-source agricultural intelligence system — yield forecasting, input optimisation, and planting calendars for 7 crops across 6 geopolitical zones, built on 24 years of FAOSTAT, NASA, and World Bank data.
+**[Live Dashboard →](https://nigeriaagriscope-yd7pxpdaacoupjsgylhj5f.streamlit.app)** &nbsp;|&nbsp; Nigeria's first open-source agricultural intelligence system — yield forecasting, input optimisation, and planting calendars for 7 crops across 6 geopolitical zones, built on 24 years of FAOSTAT, NASA, and World Bank data.
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -13,7 +13,7 @@
 
 ## The Problem
 
-Nigeria is the world's largest cassava producer and Africa's largest food market, yet it produces only 1.2 tonnes of maize per hectare against a global average of 5.8 tonnes. That gap is not a soil problem. It is an information problem. Smallholder farmers lack access to zone-specific data on when to plant, how much fertilizer to apply, and what yield to expect. The result: ₦2.3 trillion in annual yield losses from suboptimal input timing and application rates.
+Nigeria is the world's largest cassava producer and Africa's largest food market — yet it produces only 1.2 tonnes of maize per hectare against a global average of 5.8 tonnes. That gap is not a soil problem. It is an information problem. Smallholder farmers lack access to zone-specific data on when to plant, how much fertilizer to apply, and what yield to expect. The result: ₦2.3 trillion in annual yield losses from suboptimal input timing and application rates.
 
 ## The Solution
 
@@ -26,7 +26,7 @@ NigeriaAgriScope closes the information gap by integrating four international da
 
 ## Live Demo
 
-**Dashboard:** [https://nigeriaagriscope.streamlit.app](https://nigeriaagriscope.streamlit.app)
+**Dashboard:** [https://nigeriaagriscope-yd7pxpdaacoupjsgylhj5f.streamlit.app](https://nigeriaagriscope-yd7pxpdaacoupjsgylhj5f.streamlit.app)
 
 Five dashboard pages:
 1. **National Overview** — production trends, zone comparison, crop ranking
@@ -53,7 +53,7 @@ Five dashboard pages:
 
 ## Architecture
 
-```
+\`\`\`
 NigeriaAgriScope/
 │
 ├── module1_pipeline/
@@ -75,7 +75,8 @@ NigeriaAgriScope/
 │   ├── yield_model.py            # XGBoost: R²=0.991, MAE=2,900 hg/ha
 │   ├── production_forecast.py    # Prophet: 3-crop national forecast 2024–2026
 │   ├── input_optimizer.py        # Polynomial PDR curves, 42 crop-zone pairs
-│   └── yield_model.pkl           # Bundled model + encoders + feature medians
+│   └── outputs/
+│       └── yield_model.pkl       # Bundled model + encoders + feature medians
 │
 ├── module5_planning/
 │   ├── planting_calendar.py      # NASA POWER onset analysis → planting windows
@@ -92,7 +93,7 @@ NigeriaAgriScope/
 │       └── master_table.csv      # Cloud-ready CSV snapshot
 │
 └── requirements.txt
-```
+\`\`\`
 
 ---
 
@@ -143,7 +144,7 @@ All data is fetched programmatically with API fallback to local CSV when APIs ar
 
 ## How to Run Locally
 
-```bash
+\`\`\`bash
 # 1. Clone and set up environment
 git clone https://github.com/Fidelis-Akinbule/NigeriaAgriScope.git
 cd NigeriaAgriScope
@@ -165,7 +166,7 @@ python module5_planning/operations_schedule.py
 
 # 5. Launch dashboard
 streamlit run module3_dashboard/app.py
-```
+\`\`\`
 
 **Requirements:** Python 3.11+, internet connection for initial API fetch.
 If APIs are unavailable, all modules fall back to validated local estimates automatically.
